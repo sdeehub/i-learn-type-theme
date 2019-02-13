@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
-url: "https://rohanchandra.github.io/"
+baseurl: "/i-learn-type-theme"
+url: "https://sdeehub.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
