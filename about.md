@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 feature-img: "assets/img/sample_feature_img_2.png"
 ---
+ชีวิตจะเป็นยังไง ถ้าเราจดบันทึกเรื่องที่เราเรียนรู้ไว้ในทุกๆ วัน - เพื่อให้รู้ เราก็มาลองทำดู ความรู้ หรือสิ่งที่เราเรียนรู้ก็มีได้ในทุกๆ เรื่อง จดและเก็บสะสมไว้ ว่างๆ ก็ได้มานั่งอ่านทบทวน ถ้าไม่ว่างก็เอาแค่จดเก็บไว้ ผ่านมาตอนไหนก็แวะอ่านกันตอนนั้น
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+สำหรับแรงบันดาลใจของงานชิ้นนี้ได้มาจากการที่เราเคยได้อ่านหนังสือของดร. เทียม โชควัฒนา เกี่ยวกับเรื่องของการเรียนและการทบทวนตัวเองในแต่ละวัน ซึ่งเป็นจุดเริ่มต้นที่น่าสนใจ บวกกับพอได้มาเจอกับข้อความในรูปนี้เข้าโดยบังเอิญ
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+![The Gentlemen's Rule Book](asset/img/Screenshot_20190205-184002.png)
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+ถึงตอนนี้ก็ได้แต่จดบันทึกความรู้ต่างๆ ไว้ในแต่ละวัน ส่วนผลลัพธ์จะเป็นยังไงนั้น ค่อยมาดูกันอีกที
