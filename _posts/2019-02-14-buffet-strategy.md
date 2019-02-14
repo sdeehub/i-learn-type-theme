@@ -1,0 +1,21 @@
+---
+layout: post
+title: "The First 3 Buffet Strategy"
+date: 2019-02-14 16:08:01
+image: '/assets/img/'
+description: "You need to make a long-term strategy and stick to it. ~ Guy McLeod"
+tags:
+- jekyll
+- web
+categories:
+- Jekyll is awesome
+twitter_text: 'Put your twitter description here.'
+---
+1. Kill busy work - write down top 25 goals, circle the top 5 then take the 20 goals and put them on an "avoid-at-all-cost"
+
+> No matter what, these things get no attention from you until you've succeeded with your top 5.
+
+2. Only work with people you could see yourself working with forever
+3. Keep things super, super simple
+
+Reference: [Warren Buffett: “Really Successful People Say No To Almost Everything”](https://medium.com/accelerated-intelligence/warren-buffett-really-successful-people-say-no-to-almost-everything-ab78832ffebc)
