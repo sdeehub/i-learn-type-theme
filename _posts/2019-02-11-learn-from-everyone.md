@@ -5,8 +5,7 @@ date: 2019-02-11 15:15:48
 image: '/assets/img/'
 description: "Never forget there's something to learn from everyone you meet."
 tags:
-- jekyll
-- web
+- Social
 categories:
 - Jekyll is awesome
 twitter_text: 'Put your twitter description here.'
