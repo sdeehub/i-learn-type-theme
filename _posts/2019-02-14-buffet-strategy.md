@@ -6,7 +6,6 @@ image: '/assets/img/'
 feature-img: "assets/img/buffet.jpeg"
 description: "จากบทความ -Really Successful People Say No To Almost Everything-"
 tags:
-- Good Habit
 categories:
 - Jekyll is awesome
 twitter_text: 'Put your twitter description here.'
