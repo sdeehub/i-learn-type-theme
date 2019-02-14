@@ -1,21 +1,19 @@
 # SITE CONFIGURATION
-baseurl: "/i-learn-type-theme"
+baseurl: "/i.learn"
 url: "https://sdeehub.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
   title: i.learn
-  avatar: assets/img/avatar.png
+  avatar: assets/img/reallife_border_128x128.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "A Learning Journal Blog Posts | การจดบันทึกเรื่องที่เราเรียนรู้ในแต่ละวัน" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     ความรู้เหมือนดาบ ยิ่งใช้ยิ่งคม ว่าแล้วแบบนี้เราก็มาเก็บสะสมความรู้ไว้ในทุกๆ วัน มาลองทำแบบนี้ดูบ้างก็น่าจะดี • Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good. ~ Buddha
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
