@@ -2,14 +2,9 @@
 layout: post
 title: "ไปต่อไป เป็นกำลังใจให้ตัวเอง"
 date: 2019-02-10 10:06:09
-image: '/assets/img/'
-description: "Don't give up trying to do what you really want to do. ~ Ella Fitgerald"
 tags:
 - Mindful
 - Relax
-categories:
-- Jekyll is awesome
-twitter_text: 'Put your twitter description here.'
 ---
 วันนี้เรียนรู้ที่จะหยุดพักตัวเอง เป็นการหยุดเพื่อที่จะไปต่อไป เพราะหลายๆ ครั้ง
 

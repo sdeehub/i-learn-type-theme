@@ -2,13 +2,8 @@
 layout: post
 title: "เรียนรู้ได้จากทุกๆ คน ทุกๆ สิ่ง รอบๆ ตัวเรา"
 date: 2019-02-11 15:15:48
-image: '/assets/img/'
-description: "Never forget there's something to learn from everyone you meet."
 tags:
 - Social
-categories:
-- Jekyll is awesome
-twitter_text: 'Put your twitter description here.'
 ---
 คำสอนนี้เป็นคำสอนที่ดี - เรียนรู้จากทุกๆ คน เรียนรู้จากทุกๆ สิ่ง เรียนรู้จากทุกๆ สถานการณ์
 

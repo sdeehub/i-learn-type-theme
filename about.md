@@ -10,4 +10,4 @@ feature-img: "assets/img/sample_feature_img_2.png"
 
 ![The Gentlemen's Rule Book](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1550154518/Screenshot_20190205-184002.png)
 
-ถึงตอนนี้ก็ได้แต่จดบันทึกความรู้ต่างๆ ไว้ในแต่ละวัน ส่วนผลลัพธ์จะเป็นยังไงนั้น เมื่อถึงเวลาแล้วค่อยมาดูกันอีกที - ขอฝากขอบคุณ Jekyll, Type Theme และ Github Pages ไว้ณ.ที่นี้ด้วย
+สำหรับตอนนี้ก็คือลงมือจดบันทึกความรู้ต่างๆ ไว้ในแต่ละวัน ส่วนผลลัพธ์จะเป็นยังไงนั้น เมื่อถึงเวลาแล้วค่อยมาดูกันอีกที - ขอฝากขอบคุณ Jekyll, Type Theme และ Github Pages ไว้ณ.ที่นี้ด้วย
