@@ -13,7 +13,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     ความรู้เหมือนดาบ ยิ่งใช้ยิ่งคม ว่าแล้วแบบนี้เราก็มาเก็บสะสมความรู้ไว้ในทุกๆ วัน มาลองทำแบบนี้ดูบ้างก็น่าจะดี • Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good. ~ Buddha
+     ความรู้เหมือนดาบ ยิ่งใช้ก็ยิ่งคม ~ เมื่อรู้แบบนี้เราก็มาเรียนรู้ มาเก็บสะสมความรู้ที่ได้ในทุกๆ วันกัน พร้อมแล้วก็ลงมือ เก็บความรู้ที่ได้ในแต่ละวันกันได้เลย • Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good. ~ Buddha
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>

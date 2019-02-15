@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "จาก 3 ข้อของ Buffet Strategy"
+title: "3 ใน 6 ข้อของ Buffet Strategy"
 date: 2019-02-14 16:08:01
 image: '/assets/img/'
 feature-img: "assets/img/buffet.jpeg"
