@@ -2,6 +2,9 @@
 layout: post
 title: "ไปต่อไป เป็นกำลังใจให้ตัวเอง"
 date: 2019-02-10 10:06:09
+feature-img: "https://source.unsplash.com/DuBNA1QMpPA"
+credit-name: ian dooley
+credit-user: "@sadswim"
 tags:
 - Mindful
 - Relax
