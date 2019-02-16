@@ -3,7 +3,8 @@ layout: post
 title: "ร้องโน้ตเป็นตัวๆ ไม่ดึง"
 date: 2019-02-16 17:11:56
 feature-img: "https://source.unsplash.com/JAHdPHMoaEA/1024x768"
-credit: Photo by [Spencer Imbrock](https://unsplash.com/@simbrock) on [Unsplash](https://unsplash.com)
+credit-name: Spencer Imbrock
+credit-user: @simbrock
 tags:
 - Practicing
 ---

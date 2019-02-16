@@ -9,7 +9,11 @@ layout: default
       {{ page.date | date: "%B %-d, %Y" }}
       {% if page.author %} - {{ page.author }}{% endif %}
     </p>
-    {% if page.credit %}<sup><sub><i>{{ page.credit }}</i></sub></sup>{% endif %}
+    {% if page.credit-name %}
+      <sup><sub>
+        <i>Photo by <a href="https://unsplash.com/{{ page.credit-user }}">{{ page.credit-name}}</a> on <a href="https://unsplash.com/">Unsplash</a></i>
+      </sub></sup>
+    {% endif %}
   </header>
   <section class="post-content">
     {{ content }}
