@@ -4,7 +4,7 @@ title: "ร้องโน้ตเป็นตัวๆ ไม่ดึง"
 date: 2019-02-16 17:11:56
 feature-img: "https://source.unsplash.com/JAHdPHMoaEA/1024x768"
 credit-name: Spencer Imbrock
-credit-user: @simbrock
+credit-user: "@simbrock"
 tags:
 - Practicing
 ---
