@@ -10,7 +10,7 @@ tags:
 ---
 วันนี้ได้เรียนรู้ YAML ตอนที่เราแก้ไฟล์ใน Jekyll มีอยู่ 2 ส่วนที่ง่ายๆ ตามนี้เลย:
 
-```YAML
+```html
 {% assign sorted = (site.tags[this_word] | sort) %}
 {% for post in sorted %}{% if post.title != null %}
 <div class="tag-list">
@@ -20,7 +20,7 @@ tags:
 ```
 อันนี้เอาไว้ Sort - กับอีกอัน
 
-```YAML
+```html
 <div class="pagination clearfix">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | relative_url }}" class="previous"><i class="fa fa-angle-left" aria-hidden="true"></i> Previous</a>
