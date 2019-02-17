@@ -7,3 +7,13 @@ tags:
 - Coding
 ---
 วันนี้ได้เรียนรู้ YAML ตอนที่เราแก้ไฟล์ใน Jekyll มีอยู่ 2 เรื่อง คือ ทำ sort กับอีกเรื่องคือ relative URL - พยายามจะเขียน code block ลงใน markdown แต่ยัง build ไม่ผ่าน เลยไม่ได้มีตัวอย่างให้ดู เดี๋ยวค่อยหา syntax อีกที วันนี้เอาเท่านี้ก่อน
+
+`​`` html
+{% assign sorted = (site.tags[this_word] | sort) %}
+{% for post in sorted %}{% if post.title != null %}
+<div class="tag-list">
+    <span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
+    <small><span>| {{ post.date | date_to_string }}</span></small>
+</div>
+{% endif %}{% endfor %}
+```
