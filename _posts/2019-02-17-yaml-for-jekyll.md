@@ -11,7 +11,7 @@ tags:
 
 อันนี้เอาไว้ Sort - กับอีกอัน
 
-{% highlight html %}
+```html
 {% assign sorted = (site.tags[this_word] | sort) %}
 {% for post in sorted %}{% if post.title != null %}
 <div class="tag-list">
@@ -19,6 +19,6 @@ tags:
     <small><span>| {{ post.date | date_to_string }}</span></small>
 </div>
 {% endif %}{% endfor %}
-{% endhighlight %}
+```
 
 อันนี้เอาไว้อ้าง Relative_URL
