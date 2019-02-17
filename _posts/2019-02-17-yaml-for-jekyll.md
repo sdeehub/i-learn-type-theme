@@ -18,6 +18,7 @@ tags:
     <small><span>| {{ post.date | date_to_string }}</span></small>
 </div>
 {% endhighlight %}
+
 อันนี้เอาไว้ Sort - กับอีกอัน
 
 {% highlight yaml %}
@@ -30,4 +31,5 @@ tags:
   {% endif %}
 </div>
 {% endhighlight %}
+
 อันนี้เอาไว้อ้าง Relative_URL
