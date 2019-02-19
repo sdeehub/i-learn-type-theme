@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "ยอมรับและปรับเสียงด้วย"
+title: "หลักการพูด"
 date: 2019-02-19 09:25:04
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1550405551/Screenshot_from_2019-02-17_19-12-10.png"
+feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/c_crop,g_west,h_600,w_4608,x_1800/v1550544875/IMG_20190219_091344233.jpg"
 tags:
 - Manner
 ---
-หลักการพูด
+หลักการพูด (จากหนังสือ: พุทธวจน ปฐมธรรม)
+
 1. กล่าวแล้วควรแก่เวลา
 2. กล่าวแล้วตามสัจจ์จริง
 3. กล่าวแล้วอย่างอ่อนหวาน
