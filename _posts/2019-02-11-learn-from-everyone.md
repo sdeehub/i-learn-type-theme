@@ -5,8 +5,7 @@ date: 2019-02-11 15:15:48
 feature-img: "https://source.unsplash.com/IBaVuZsJJTo"
 credit-name: Ryoji Iwata
 credit-user: "@ryoji__iwata"
-tags:
-- Social
+tags: Social
 ---
 คำสอนนี้เป็นคำสอนที่ดี - เรียนรู้จากทุกๆ คน เรียนรู้จากทุกๆ สิ่ง เรียนรู้จากทุกๆ สถานการณ์
 

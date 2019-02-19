@@ -5,9 +5,7 @@ date: 2019-02-10 10:06:09
 feature-img: "https://source.unsplash.com/_SbeCWYjwCQ"
 credit-name: Masaaki Komori
 credit-user: "@gaspanik"
-tags:
-- Mindful
-- Relax
+tags: Mindful
 ---
 วันนี้เรียนรู้ที่จะหยุดพักตัวเอง เป็นการหยุดเพื่อที่จะไปต่อไป เพราะหลายๆ ครั้ง
 
