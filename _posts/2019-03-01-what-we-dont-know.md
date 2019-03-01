@@ -5,7 +5,7 @@ date: 2019-03-01 14:21:48 +0700
 feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1551425538/earhart005-banner.jpg"
 credit-name:
 credit-user:
-tags: Practicing
+tags: Reference
 ---
 วันนี้ได้รู้ว่าเธอคือ [Amelia Earhart](https://www.ameliaearhart.com/) (อาจจะเป็นการรู้ซ้ำอีกครั้ง)
 
