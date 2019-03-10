@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "หัวหน้านั่งอยู่ที่ไหน?"
-date: 2019-03-07 23:20:06 +0700
+date: 2019-03-09 23:20:06 +0700
 feature-img: "https://source.unsplash.com/b34E1vh1tYU"
 credit-name: "Gez Xavier Mansfield"
 credit-user: "@gezxaviermansfield"
