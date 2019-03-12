@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "จับเวลาและคิดว่าเรามีค่าตัวชม.ละ 5 หมื่นบาท"
+title: "ชม.ละ 5 หมื่นบาท"
 date: 2019-03-04 14:05:45 +0700
 feature-img: "https://source.unsplash.com/vZawEq0Eexo"
 credit-name: "Marcelo Leal"
