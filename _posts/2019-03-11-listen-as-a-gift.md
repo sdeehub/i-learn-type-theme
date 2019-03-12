@@ -13,6 +13,6 @@ tags: Love
 จำไว้ว่าเรายัง -ฟัง- ได้ดีกว่านี้อีกมากมาย ดูท้องฟ้า ดูเม็ดทราย ดูสายฝน ดูอย่างธรรมชาติที่คอยฟังเราอยู่ตลอดเวลา จำไว้แล้วนะ :)
 
 *เรื่องที่ (2)*
-> Ordinary People Focus on the Outcome. Extraordinary People Focus On the Process. ~ The Ascent
+> I write only when inspiration strikes. Fortunately, it strikes every morning at nine o’clock sharp. ~ Somerset Maugham
 
-I write only when inspiration strikes. <i class="fa fa-heart" style="color:#C38FD6"></i> Fortunately, it strikes every morning at nine o’clock sharp.
+[Ordinary People Focus on the Outcome. Extraordinary People Focus On the Process.](https://nerdomeblog.com/2018/12/07/ordinary-people-focus-on-the-outcome-extraordinary-people-focus-on-the-process/) - ให้ความสนใจที่กระบวนการ ให้ความสนใจที่พัฒนาการ ความอดทน การเปลี่ยนแปลง ความตั้งใจฝึกฝน คนที่เก่งกว่าก็คือเก่งกว่ามาตั้งแต่การซ้อมในทุกๆ วันนั่นเอง
