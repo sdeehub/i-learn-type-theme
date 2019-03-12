@@ -15,4 +15,4 @@ tags: Love
 *เรื่องที่ (2)*
 > I write only when inspiration strikes. Fortunately, it strikes every morning at nine o’clock sharp. ~ Somerset Maugham
 
-[Ordinary People Focus on the Outcome. Extraordinary People Focus On the Process.](https://nerdomeblog.com/2018/12/07/ordinary-people-focus-on-the-outcome-extraordinary-people-focus-on-the-process/) - ให้ความสนใจที่กระบวนการ ให้ความสนใจที่พัฒนาการ ความอดทน การเปลี่ยนแปลง ความตั้งใจฝึกฝน คนที่เก่งกว่าก็คือเก่งกว่ามาตั้งแต่การซ้อมในทุกๆ วันนั่นเอง
+[Ordinary People Focus on the Outcome. Extraordinary People Focus On the Process.](https://nerdomeblog.com/2018/12/07/ordinary-people-focus-on-the-outcome-extraordinary-people-focus-on-the-process/) - ให้ความสนใจที่กระบวนการ ให้ความสนใจที่พัฒนาการ ความอดทน การเปลี่ยนแปลง ความตั้งใจฝึกฝน เพราะคนที่พิเศษกว่าก็คือพิเศษกว่ามาตั้งแต่การซ้อมในทุกๆ วันนั่นเอง
