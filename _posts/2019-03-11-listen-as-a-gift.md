@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ฟัง และ สนใจที่กระบวนการ"
+title: "ฟัง+กระบวนการ"
 date: 2019-03-11 16:27:21 +0700
 feature-img: "https://source.unsplash.com/vcLGO6RoIoA"
 credit-name: "Tina Floersch"

@@ -6,12 +6,26 @@
         {{ page.previous.title }}
       </a>
   </div>
+  {% else %}
+  <div id="next-post" class="post-nav-post">
+      <a href="{{ site.baseurl }}">
+        <i class="fa fa-chevron-left"></i>
+        i.learn
+      </a>
+  </div>
   {% endif %}
   {% if page.next.url %}
   <div id="next-post" class="post-nav-post">
       <a href="{{ site.baseurl }}{{ page.next.url }}">
         <i class="fa fa-chevron-right"></i>
         {{ page.next.title }}
+      </a>
+  </div>
+  {% else %}
+  <div id="next-post" class="post-nav-post">
+      <a href="{{ site.baseurl }}">
+        <i class="fa fa-chevron-right"></i>
+        i.learn
       </a>
   </div>
   {% endif %}
