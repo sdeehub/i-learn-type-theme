@@ -65,7 +65,7 @@ theme_settings:
   google_fonts: "Athiti|Megrim|Prompt"
 
   # Post navigation
-  post_navigation: false
+  post_navigation: true
 
 # PAGINATION
 paginate: 5
