@@ -13,6 +13,7 @@ tags:
 - [Blogger to Jekyll](https://import.jekyllrb.com/docs/blogger/)
 
 ```bash
+$ gem install jekyll-import
 $ ruby -r rubygems -e 'require "jekyll-import";
     JekyllImport::Importers::Blogger.run({
       "source"                => "/path/to/blog-MM-DD-YYYY.xml",
