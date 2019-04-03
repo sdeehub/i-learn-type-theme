@@ -3,8 +3,6 @@ layout: post
 title: "เช้าที่ดี"
 date: 2019-03-30 23:33:44 +0700
 feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1554167850/7ce0af9208d94620acb6d654e3c9bee3.jpg"
-credit-name: ""
-credit-user: ""
 tags:
 - Practicing
 ---

@@ -2,9 +2,9 @@
 layout: post
 title: "ข้อห้าม-ข้อบังคับการนวด"
 date: 2019-04-01 14:33:44 +0700
-feature-img: ""
-credit-name: ""
-credit-user: ""
+feature-img: "https://source.unsplash.com/lqT2RukGGJ0"
+credit-name: "Franck V."
+credit-user: "@franckinjapan"
 tags:
 - Practicing
 ---
