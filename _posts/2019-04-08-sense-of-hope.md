@@ -2,9 +2,7 @@
 layout: post
 title: "มีหวัง ถึงมีหมดหวัง"
 date: 2019-04-08 22:11:00 +0700
-feature-img: "https://source.unsplash.com/kW-8a6Y-vEA"
-credit-name: "Aziz Acharki"
-credit-user: "@acharki95"
+feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
 tags:
 - Practicing
 ---
