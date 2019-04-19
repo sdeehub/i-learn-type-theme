@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ไปต่อไป เป็นกำลังใจให้ตัวเอง"
-date: 2019-02-10 10:06:09
+date: 2019-02-10 10:06:09 +0700
 feature-img: "https://source.unsplash.com/_SbeCWYjwCQ"
 credit-name: Masaaki Komori
 credit-user: "@gaspanik"

@@ -2,9 +2,7 @@
 layout: post
 title: "4 เรื่องง่ายๆ"
 date: 2019-03-19 18:21:19 +0700
-feature-img: "https://source.unsplash.com/46juD4zY1XA"
-credit-name: "David Pisnoy"
-credit-user: "@davidpisnoy"
+feature-img: "assets/img/sample_feature_img_3.png"
 tags:
 - Reference
 ---

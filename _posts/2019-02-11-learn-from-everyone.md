@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "เรียนรู้ได้จากทุกๆ คน ทุกๆ สิ่ง รอบๆ ตัวเรา"
-date: 2019-02-11 15:15:48
+date: 2019-02-11 15:15:48 +0700
 feature-img: "https://source.unsplash.com/IBaVuZsJJTo"
 credit-name: Ryoji Iwata
 credit-user: "@ryoji__iwata"

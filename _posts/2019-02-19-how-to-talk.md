@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "หลักการพูด"
-date: 2019-02-19 09:25:04
+date: 2019-02-19 09:25:04 +0700
 feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/c_crop,g_west,h_600,w_4608,x_1800/v1550544875/IMG_20190219_091344233.jpg"
 tags: Manner
 ---

@@ -2,9 +2,7 @@
 layout: post
 title: "ขนาดเราเองก็ยังอาย"
 date: 2019-03-03 19:22:15 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1551616187/chicken-praram-9.jpg"
-credit-name:
-credit-user:
+feature-img: "assets/img/sample_feature_img_3.png"
 tags: Mindset
 ---
 วันนี้เรียนรู้ว่าต้องยอมรับความอาย อายเพราะเราทำตัวเหลวไหล อายเพราะเราไปไม่ถึงเป้าหมาย อายเพราะเราทำให้ทุกคนผิดหวัง - แต่บางครั้งก็มีหลายๆ อย่างที่เราต้องทำต่อไป หลายๆ คนอาจจะอายและไม่เข้าใจ แต่เราต้องยอมรับความอาย เรียนรู้ให้ได้ ก้าวต่อไปให้ได้
