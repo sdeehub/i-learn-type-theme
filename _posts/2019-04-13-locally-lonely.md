@@ -2,7 +2,7 @@
 layout: post
 title: "คนเดียวในที่สุด?"
 date: 2019-04-13 18:53:45 +0700
-feature-img: "assets/img/sample_feature_img_3.png"
+feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
 tags:
 - Reference
 ---

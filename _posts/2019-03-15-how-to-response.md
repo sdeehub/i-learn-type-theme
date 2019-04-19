@@ -2,7 +2,7 @@
 layout: post
 title: "ต้องทำยังไง?"
 date: 2019-03-15 16:43:11 +0700
-feature-img: "assets/img/sample_feature_img_3.png"
+feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
 tags:
 - Manner
 ---

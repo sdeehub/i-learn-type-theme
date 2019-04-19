@@ -2,7 +2,7 @@
 layout: post
 title: "ยอมรับและปรับเสียงด้วย"
 date: 2019-02-18 19:10:38 +0700
-feature-img: "assets/img/sample_feature_img_3.png"
+feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
 tags: Manner
 ---
 วันนี้ไปเป็นเพื่อนกันทำใบขับขี่รถมอเตอร์ไซด์ ได้เรียนรู้อะไรมาบ้าง? :-

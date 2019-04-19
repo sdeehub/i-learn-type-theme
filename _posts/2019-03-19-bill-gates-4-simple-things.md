@@ -2,7 +2,7 @@
 layout: post
 title: "4 เรื่องง่ายๆ"
 date: 2019-03-19 18:21:19 +0700
-feature-img: "assets/img/sample_feature_img_3.png"
+feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
 tags:
 - Reference
 ---
