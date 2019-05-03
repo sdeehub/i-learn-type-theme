@@ -16,6 +16,6 @@ tags:
 
 The strategies included using meditation to enhance intuition, relaxation, visualizing good fortune, and talking to at least one new person every week.
 
-*Source:
-- [The Key to Good Luck Is an Open Mind](https://getpocket.com/explore/item/the-key-to-good-luck-is-an-open-mind)*
+*Source*:
+- [The Key to Good Luck Is an Open Mind](https://getpocket.com/explore/item/the-key-to-good-luck-is-an-open-mind)
 - [The Luck Factor - Richard Wiseman](http://www.richardwiseman.com/resources/The_Luck_Factor.pdf)
