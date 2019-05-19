@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "วันศุกร์"
 date: 2019-05-17 23:21:44 +0700
 feature-img: "https://source.unsplash.com/j6brni7fpvs"
 credit-name: "Aline de Nadai"
