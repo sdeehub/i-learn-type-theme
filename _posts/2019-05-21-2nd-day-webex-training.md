@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ติดๆ ขัดๆ และง่วงนอน"
+title: "เย้! พวกเราคือเพื่อนกัน"
 date: 2019-05-21 23:16:23 +0700
 feature-img: "https://source.unsplash.com/k_T9Zj3SE8k"
 credit-name: "Simon Abrams"
@@ -12,4 +12,4 @@ tags:
 
 <i class="fa fa-child" style="color:plum"></i>
 
-มีเพื่อนในห้องแล้วหลายคนอยู่นะ - รวมถึง Pavan ด้วย
+มีเพื่อนในห้องแล้วหลายคนอยู่นะ Kumar Sanu / Rishi / Siddhi / Pratibha / Tamarapu Rishi / Anshitha Priya / Vishnu Priya - รวมถึง Pavan ด้วย
