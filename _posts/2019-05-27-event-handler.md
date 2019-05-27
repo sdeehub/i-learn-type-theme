@@ -2,7 +2,9 @@
 layout: post
 title: "ทบทวน!"
 date: 2019-05-27 22:26:52 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1558970443/line_17253196536746.jpg"
+feature-img: "https://source.unsplash.com/CB87Yo2Qd2w"
+credit-name: "AbsolutVision"
+credit-user: "@freegraphictoday"
 tags:
 - Coding
 ---
