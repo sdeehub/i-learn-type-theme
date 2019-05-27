@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ยอมรับ"
-date: 2019-05-23 13:53:48 +0700
+date: 2019-05-22 13:53:48 +0700
 feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
 tags:
 - Practicing
