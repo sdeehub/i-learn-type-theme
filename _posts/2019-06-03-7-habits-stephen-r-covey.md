@@ -9,7 +9,7 @@ tags:
 - Mindset
 ---
 1. Be Proactive - Focus on things we can change. And do it proactively, before we are forced to do something about it.
-2. Begin with the End in Mind - Envision your future using both logic and imagination. Let it be based on principles. Write down your own mission statement. Imagine what your friends, family, colleagues, community will tell about you.
+2. Begin with the End in Mind - Envision your future using both logic and imagination. Let it be based on principles. Write down your own mission statements. Imagine what your friends, family, colleagues, community will tell about you.
 3. Put First Things First - Important and Urgent!
 4. Think Win Win - Our success depends on others success.
 5. Seek First to Understand, Then to be Understood - Listen, Understand, and only then, Open your mounth.
@@ -20,4 +20,4 @@ tags:
 
 - Stephen R. Covey (1932-2012)- กับหนังสือแปลชื่อ คำสอนสุดท้ายของ Stephen R. Covey
 
-หนังสืออกมาเมื่อปี 2013 (2556) เป้นเล่มแรกๆ ที่เราอ่านและเริ่มเปิดมาสู่การอ่านหนังสือและการเปลี่ยนแปลงอื่นๆ ที่เกิดขึ้นตามมา
+หนังสืออกมาเมื่อปี 2013 (2556) เป็นเล่มแรกๆ ที่เราอ่านและเริ่มนำมาสู่การอ่านหนังสือและการเปลี่ยนแปลงอื่นๆ ที่เกิดขึ้นตามมา
