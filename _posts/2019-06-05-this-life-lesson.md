@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "วิชาชีวิต"
+title: "จากหนังสือ วิชาแรก วิชาชีวิต"
 date: 2019-06-05 12:11:39 +0700
 feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/a_0/v1559799292/IMG_8123.jpg"
 tags:
