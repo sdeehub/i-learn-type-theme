@@ -8,9 +8,11 @@ credit-user: "@_louisreed"
 tags:
 - Reference
 ---
->
+> There's no such thing as a self-made person. Someone else belived, encouraged and invested in you. Be grateful and be that someone for others. ~ [marcandangel](http://www.marcandangel.com/)
 
->
+> Beginning today, treat everyone you meet as if they were going to be dead by midnight. Extend to them all the care, kindness and understanding you can muster, and do it with no thought of any reward. Your life will never be the same again. ~ Og Mandino
+
+> Be kind, for everyone you meet is fighting a hard battle. ~ Ian Maclaren
 
 ได้ข้อคิดที่ดีมากๆ อีกเรื่องคือ เราเป็นคนจ่ายเงินเดือนก็จริง เงินนั้นจะมากหรือน้อย งานนั้นจะได้รับการยอมรับในเกียรติหรือไม่อย่างไร ทั้งหมดทั้งมวลขอให้จำไว้ว่า "You pay them the respect."
 
