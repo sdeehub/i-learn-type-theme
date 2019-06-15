@@ -8,15 +8,17 @@ credit-user: "@_louisreed"
 tags:
 - Reference
 ---
-ถ้าฟังมาถูกคือเกิดขึ้นในปี 95 - ช่วงนั้นจำได้ว่า CIM แต่ตอนเรียนจะเป็น Integrated Manufacturing คราวนี้วันนี้ก็เลยได้ดูทุกๆ Level ว่ามีอะไรบ้างสำหรับ ISA-95
+ถ้าฟังมาถูกคือเกิดขึ้นในปี 95 - ช่วงนั้นจำได้ว่าทั่วๆ ไปจะพูดกันถึง CIM แต่ตอนเรียนจะเป็น Integrated Manufacturing ซะมากกว่า
+
+แต่ว่าผ่านไปเป็นหลายสิบปีมาถึงครั้งนี้สิ่งที่ได้ยินกลายเป็น Automation Engineering แล้วก็เผอิญมาได้ถึงตอนนี้ คราวนี้ วันนี้ก็เลยได้มารู้จักกับ MOM และก็ได้ดูทุกๆ Level ว่ามีอะไรบ้างสำหรับ ISA-95
 
 <i class="fa fa-child" style="color:plum"></i>
 
-แปลกดีที่ขึ้นถึง Quote นี้
+แปลกดีที่ได้คิดถึง Quote นี้
 
 > Sometimes when things are falling apart, they may actually be falling into place.
 
-และก็คิดถึง Marilyn Monroe
+และก็คิดถึง Marilyn Monroe ขึ้นมาด้วยเหมือนกัน
 
 > Always, always, always believe in yourself, because if you don’t, then who will, Sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life’s a beautiful thing and there’s so much to smile about.
 
