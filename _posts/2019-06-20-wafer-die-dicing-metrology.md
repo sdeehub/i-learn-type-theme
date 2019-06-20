@@ -2,7 +2,7 @@
 layout: post
 title: "การผลิตชิฟ"
 date: 2019-06-20 22:23:38 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1560956775/IMG_8233.jpg"
+feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
 tags:
 - Reference
 ---

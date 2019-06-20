@@ -2,7 +2,7 @@
 layout: post
 title: "ใบประกาศฝีมือแรงงานนวด"
 date: 2019-06-18 22:41:42 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1560783604/IMG_8228.jpg"
+feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
 tags:
 - Life
 ---
