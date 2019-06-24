@@ -4,7 +4,7 @@ title: "หลังจากกระจกตก"
 date: 2019-06-23 21:12:09 +0700
 feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
 tags:
-- Reference
+- Love
 ---
 - ยกเลิก True Internet ของบริษัทฯ ต้องเตรียมหนังสือรับรองมาด้วย / ยกเลิกวันไหนก็คิดค่าบริการเฉลี่ยตามวัน - งั้นเราก็กลับมายกเลิกอาทิตย์หน้า
 - สาย Chain Lock ของจักรยานจาก Diso - หมุนรหัสแล้วก็ปลดล๊อค ถ้าจะตั้งใหม่ไปที่ 0-0-0-0 ก่อน

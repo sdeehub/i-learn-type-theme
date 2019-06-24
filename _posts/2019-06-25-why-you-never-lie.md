@@ -1,0 +1,13 @@
+---
+layout: post
+title: "ตี 5 ของเช้าวันนี้"
+date: 2019-06-25 05:01:59 +0700
+feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+tags:
+- Love
+---
+> I never lie because I don't fear anyone. You only lie when you are afraid. ~ The.Success.King
+
+<i class="fa fa-child" style="color:plum"></i>
+
+วันนี้ยังเช้าเกินไปที่จะได้รู้จักใครสักคน? แต่เอาเป็นว่าได้รู้ว่า 007 นั้นจาก Ian Fleming ก็แล้วกัน
