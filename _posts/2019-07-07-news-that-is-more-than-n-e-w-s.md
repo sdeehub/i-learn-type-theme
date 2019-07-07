@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "กลับบ้าน (ในอีกนัย)"
+title: "คนบ้าข่าว"
 date: 2019-07-07 12:29:46 +0700
 feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1562477937/IMG_25620707_123310.jpg"
 tags:
