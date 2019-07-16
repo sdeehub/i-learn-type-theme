@@ -2,7 +2,7 @@
 layout: post
 title: "วรรณ หรือ วัน"
 date: 2019-07-15 22:38:32 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1563280628/IMG_8474.jpg"
+feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/a_0/v1563280628/IMG_8474.jpg"
 tags:
 - Life
 ---
@@ -12,4 +12,4 @@ tags:
 
 <i class="fa fa-child" style="color:plum"></i>
 
-วันนี้ยินดีที่ได้รู้จักกับร้านเจ๊วรรณ - วันหน้าแล้วค่อยมาร้านเจ๊โอ กันนะพวกเรา!
+วันนี้ยินดีที่ได้รู้จักกับร้านเจ้วรรณ - วันหน้าแล้วค่อยมาร้านเจ้โอ กันนะพวกเรา!
