@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "การทำงาน"
+title: "คนที่บ้าน"
 date: 2019-08-28 21:54:50 +0700
 feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
 tags:
@@ -10,4 +10,4 @@ tags:
 
 <i class="fa fa-child" style="color:plum"></i>
 
-- รู้จักกับหมู่บ้านอินดี้ - 55 ตรว. 1.6++ ล้านบาท
+- รู้จักกับปิน และ หมู่บ้านอินดี้ - 55 ตรว. 1.6++ ล้านบาท
