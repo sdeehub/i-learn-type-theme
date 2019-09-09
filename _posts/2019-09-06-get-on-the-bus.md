@@ -1,0 +1,15 @@
+---
+layout: post
+title: "ขึ้นรถเมล์ขาว"
+date: 2019-09-06 23:18:27 +0700
+feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+tags:
+- Practicing
+---
+> Don't stop making an effort just because you got her.
+
+> Complaining is silly. Either act or forget.
+
+<i class="fa fa-child" style="color:plum"></i>
+
+ขึ้นรถเมล์ขาวเข้าเมือง ลงที่บขส. (สุดสาย) / ขึ้นนครชัย 21 กลับกรุงเทพฯ - เปลี่ยนเส้นทางการกลับบ้าน ลองใช้เส้นทางใหม่ๆ ดู
