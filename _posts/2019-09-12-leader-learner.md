@@ -12,4 +12,4 @@ tags:
 
 *Remote desktop - RDP*:
 - Sign out : Ends the session
-- Disconnect : Leaves te session running
+- Disconnect : Leaves the session running
