@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIXT!"
+title: "09.09"
 date: 2019-09-09 17:45:23 +0700
 feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
 tags:
