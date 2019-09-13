@@ -6,7 +6,8 @@ feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919
 tags:
 - Reference
 ---
-BBC : McDonald's uses AI for ordering at drive-throughs - ด้วยการใช้ข้อมูลอากาศมาแนะนำไอศกรีม หรือ กาแฟร้อน หรือบาทีน่าจะเป็นข้อมูลการตลาด / ยอดขาย / รายการอาหารที่ต้องรอนานอะไรแบบนี้?
+BBC : McDonald's uses AI for ordering at drive-throughs - ด้วยการใช้ข้อมูลอากาศมาแนะนำไอศกรีม หรือ กาแฟร้อน หรือบางทีน่าจะเป็นข้อมูลการตลาด / ยอดขาย / รายการอาหารที่ต้องรอนานอะไรแบบนี้?
 
-Dissipation : การทำให้กระจายตัว / การสลายตัว / ความสุรุ่ยสุร่าย
-Armada : กองเรือรบ / a fleet of warships / a large force or group usually of moving things
+คำศัพท์ให้เรียนรู้ประจำวัน
+- Dissipation : การทำให้กระจายตัว / การสลายตัว / ความสุรุ่ยสุร่าย
+- Armada : กองเรือรบ / a fleet of warships / a large force or group usually of moving things
