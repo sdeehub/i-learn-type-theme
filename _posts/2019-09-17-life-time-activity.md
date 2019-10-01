@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "เมตตา"
-date: 2019-09-17 09:04:043 +0700
+date: 2019-09-17 09:04:43 +0700
 feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
 tags:
 - Reference
