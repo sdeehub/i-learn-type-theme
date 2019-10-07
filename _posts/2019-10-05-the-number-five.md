@@ -6,8 +6,12 @@ feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919
 tags:
 - Reference
 ---
-เราต้องฝึกปฏิบัติตนตนเอง ให้เป็นคนมีค่ามีประโยชน์ต่อตนเองและผู้อื่น
+Seeing your own role as helping others succeed
 
-เราทุกคนอยากมีคุณค่า เราต้องสร้างเหตุปัจจัย เราทำไปเรื่อย ทั้งปิดทองหน้าพระ หลังพระ เพื่อเป็นคนกตัญญูกตเวทีต่อพระพุทธเจ้า ต่อพ่อ ต่อแม่ ต่อครูบาอาจารย์ ตลอดถึงผู้มีพระคุณทั้งหลาย
-
-หลวงพ่อกัณหา สุขกาโม
+1. You Can Manage Your Emotions Under Pressure
+2. Listen in a Way That Makes Others Feel Heard
+3. You’re Quick to Show Empathy
+4. You Take Responsibility for Your Mistakes
+5. You’re Always Open to Feedback
+6. You Can Work Through Conflicts
+7. You Earn the Respect of Others (For the Right Reasons)
