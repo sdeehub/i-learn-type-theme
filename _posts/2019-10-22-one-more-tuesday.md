@@ -1,0 +1,13 @@
+---
+layout: post
+title: "เรื่องที่ยอดเยี่ยม"
+date: 2019-10-22 19:48:04 +0700
+feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+tags:
+- Success
+---
+Great things in business are never done by one person.
+
+<i class="fa fa-child" style="color:plum"></i>
+
+They are done by a team of people. ~ Steve Jobs
