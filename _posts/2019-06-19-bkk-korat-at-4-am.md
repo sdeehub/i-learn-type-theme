@@ -12,4 +12,4 @@ tags:
 
 <i class="fa fa-child" style="color:plum"></i>
 
-ได้ร่วมทีมกับทุกคนแล้วครับ Steve / Alan / Peace / Mint and Odd + Kop
+ได้ร่วมทีมกับทุกคนแล้วครับสำหรับทีมโคราช

@@ -20,5 +20,4 @@ Free text books may be issued at the discretion of the local authorities, but in
 
 <i class="fa fa-child" style="color:plum"></i>
 
-สมาชิกในห้องเรียงตามลำดับ:
-Mint / Peace / อ๊อด / สันต์ / มิน / ตา / บีม / แจ้ว
+ดีใจที่ได้รู้จักกับสมาชิกในห้องทั้ง 8 คน รวมทั้งอ๊อดด้วย
