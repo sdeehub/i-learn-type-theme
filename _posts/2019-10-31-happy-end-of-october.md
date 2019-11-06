@@ -10,4 +10,4 @@ What would you attempt to do if you knew you could not fail? ~ Robert H. Schulle
 
 <i class="fa fa-child" style="color:plum"></i>
 
-Work smarter! - เชื่อมั่น และ ทำทุกอย่างตามที่ฝัน จินตนาการถึงความสำเร็จ รู้สึกได้ถึงความสำหรับในทุกๆ สัมผัส
+Work smarter! - เชื่อมั่น และ ทำทุกอย่างตามที่ฝัน จินตนาการถึงความสำเร็จ รู้สึกได้ถึงความมุ่งมั่น ตั้งใจ เป็นสุข ในทุกๆ สัมผัสของความพยายาม และ ความสำเร็จ
