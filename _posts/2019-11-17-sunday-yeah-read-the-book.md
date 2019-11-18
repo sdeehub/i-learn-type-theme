@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Q & A"
+date: 2019-11-17 09:09:54 +0700
+feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+tags:
+- Reference
+---
+
+ไม่ต้องเข้าใจทุกเรื่องก็ได้ แค่รับฟังก็พอ
+
+<i class="fa fa-child" style="color:plum"></i>
+
+ก็จริงอยู่นะ - ฟังเถอะฟังให้ตั้งใจฟัง ฟังดีๆ ฟังไปยิ้มไป ฟังไปเห็นเข้าไปถึงใจ ฟังนะฟัง
