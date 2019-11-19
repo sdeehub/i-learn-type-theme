@@ -11,4 +11,4 @@ Let us make our future now, and let us make our dreams tomorrow's reality. ~ Mal
 
 <i class="fa fa-child" style="color:plum"></i>
 
-อาหาร / Quote / เพลง / เรียนรู้ / ง่วงนอน
+อาหาร / Quote / เพลง / เรียนรู้ / ง่วงนอน / please!
