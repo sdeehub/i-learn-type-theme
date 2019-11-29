@@ -8,9 +8,16 @@ tags:
 ---
 
 <details>
-<sumary>Click to see note:</summary>
+<summary>Click to see note:</summary>
 
 Collapsible Markdown
+```html
+<details>
+<summary>Click to see note:</summary>
+
+Collapsible Markdown
+</details>
+```
 </details>
 
 <i class="fa fa-child" style="color:plum"></i>
