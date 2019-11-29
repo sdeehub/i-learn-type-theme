@@ -11,6 +11,7 @@ tags:
 <summary>Click to see note:</summary>
 
 Collapsible Markdown
+
 ```html
 <details>
 <summary>Click to see note:</summary>
