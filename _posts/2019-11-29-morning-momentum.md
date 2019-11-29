@@ -8,13 +8,20 @@ tags:
 ---
 
 <details>
-<summary>Click to see note:</summary>
+<summary>Note:</summary>
 
-Collapsible Markdown
-- GitHub Markdown
-- Work well w/ Chrome
+>Collapsible Markdown : GitHub Markdown that work well w/ Chrome.
 
 </details>
+
+```html
+<details>
+<summary>Note:</summary>
+
+>Collapsible Markdown : GitHub Markdown that work well w/ Chrome.
+
+</details>
+```
 
 <i class="fa fa-child" style="color:plum"></i>
 
