@@ -19,6 +19,7 @@ Collapsible Markdown
 Collapsible Markdown
 </details>
 ```
+
 </details>
 
 <i class="fa fa-child" style="color:plum"></i>
