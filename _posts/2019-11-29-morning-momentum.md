@@ -12,13 +12,13 @@ tags:
 
 Collapsible Markdown
 
-```html
+~~~html
 <details>
 <summary>Click to see note:</summary>
 
 Collapsible Markdown
 </details>
-```
+~~~
 
 </details>
 
