@@ -11,14 +11,8 @@ tags:
 <summary>Click to see note:</summary>
 
 Collapsible Markdown
-
-~~~html
-<details>
-<summary>Click to see note:</summary>
-
-Collapsible Markdown
-</details>
-~~~
+- GitHub Markdown
+- Work well w/ Chrome
 
 </details>
 
