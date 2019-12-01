@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "วันนี้ต้องใจเย็นๆ"
+title: "วันนี้ดีใจกับ Dr. Thomas"
 date: 2019-12-01 19:36:13 +0700
 feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
 tags:
