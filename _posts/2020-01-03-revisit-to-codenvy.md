@@ -6,8 +6,8 @@ feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919
 tags:
 - Coding
 ---
-กลับมาใช้ Codenvy อีกครั้ง - ครั้งนี้เราตั้งแค่ Workspace, Project และ Import Git เข้ามา
+กลับมาใช้ Codenvy อีกครั้ง - ครั้งนี้เราสนใจแค่ Workspace, Project แล้วก็ Import git เข้ามา
 
 <i class="fa fa-child" style="color:plum"></i>
 
-เหมือนกับใช้แค่ Codenvy IDE ไม่ได้ใช้พวก Dockers
+เหมือนกับใช้แค่ Codenvy Editor ไม่ได้ใช้พวก Dockers หรือ Debug Tool อื่นๆ แค่เขียน Markdown เสร็จแล้วก็ Push ไฟล์ขึ้น git ไป
