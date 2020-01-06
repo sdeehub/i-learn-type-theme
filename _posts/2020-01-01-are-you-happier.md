@@ -4,7 +4,7 @@ title: "ปีใหม่"
 date: 2020-01-01 22:04:40 +0700
 feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
 tags:
-- Life
+- Powerful Question
 ---
 ปีใหม่ ขอให้มีความสุขเพิ่มมากขึ้นหลายๆ แล้วถามตัวเองไว้:
 
