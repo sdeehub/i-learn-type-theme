@@ -7,7 +7,7 @@ tags:
 - Mindset
 ---
 
-Make your deams ahppen, Odd!
+Make your dreams happen, Odd!
 
 <i class="fa fa-child" style="color:plum"></i>
 
