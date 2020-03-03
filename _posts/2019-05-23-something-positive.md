@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "มองหาเรื่องดีๆ"
-date: 2019-05-23 13:53:48 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: มองหาเรื่องดีๆ
+date: 2019-05-23 06:53:48 Z
 tags:
 - Practicing
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 > Looking for something positive each day, even if some days you have to look a little harder. ~ Unknown
 
 <i class="fa fa-child" style="color:plum"></i>

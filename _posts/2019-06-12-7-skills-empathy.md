@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "E.M.P.A.T.H.Y"
-date: 2019-06-12 14:12:41 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: E.M.P.A.T.H.Y
+date: 2019-06-12 07:12:41 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 - E - Eye contant : Maintain eye contact until you notice a person's eye color.
 - M - Muscles for facial expression : Smile.
 - P - Posture : Sit up tall.

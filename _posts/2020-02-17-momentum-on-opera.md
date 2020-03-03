@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Start tab"
-date: 2020-02-17 22:55:17 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: Start tab
+date: 2020-02-17 15:55:17 Z
 tags:
 - Coding
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
 To start Opera new tab with Momentum:

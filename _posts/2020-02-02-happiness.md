@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "ความสุข"
-date: 2020-02-02 17:45:04 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: ความสุข
+date: 2020-02-02 10:45:04 Z
 tags:
 - Practicing
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 ความสุข
 
 <i class="fa fa-child" style="color:plum"></i>

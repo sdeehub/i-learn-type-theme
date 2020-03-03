@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "วรรณ หรือ วัน"
-date: 2019-07-15 22:38:32 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/a_0/v1563280628/IMG_8474.jpg"
+title: วรรณ หรือ วัน
+date: 2019-07-15 15:38:32 Z
 tags:
 - Life
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/a_0/v1563280628/IMG_8474.jpg
 ---
+
 เล่นคำ หรือว่ายังไม่ค่อยจำ? - ตกลง desert หรือ dessert หรือจริงๆ วันนี้คือน้ำเต้าหู้ไม่ค่อยหวานอร่อยดี ร้านนี้คือร้านเจ้วรรณอยู่ที่ถนนบรรทัดทอง
 
 *หมายเหตุ*: มาจอดรถที่สวน 100 ปีสะดวกเดินมาง่ายดี

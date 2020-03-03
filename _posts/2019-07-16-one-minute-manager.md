@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "30 ปีแล้วนะ"
-date: 2019-07-16 20:14:29 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: 30 ปีแล้วนะ
+date: 2019-07-16 13:14:29 Z
 tags:
 - Life
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 ไม่แน่ใจว่าใช่หนังสือชื่อนี้มั๊ย The one minute manager หรือว่า One page management กันแน่
 
 แต่ยังไงวันนี้มีเล่มไหนก็อ่านเล่มนั้นล่ะนะ

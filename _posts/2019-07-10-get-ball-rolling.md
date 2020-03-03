@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Get the ball rolling"
-date: 2019-07-10 22:38:32 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: Get the ball rolling
+date: 2019-07-10 15:38:32 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 - Please get me up to speed.
 - Please keep me posted. - Ok I'll keep you updated. / Ok I'll let you know as soon as we hear something.
 - Take it and run with it. - Thanks! I'm on it.

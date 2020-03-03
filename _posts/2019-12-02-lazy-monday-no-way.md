@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "วันทำงาน"
-date: 2019-12-02 19:36:13 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: วันทำงาน
+date: 2019-12-02 12:36:13 Z
 tags:
 - Life
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 วันทำงานก็คือตั้งใจทำงาน!
 
 <i class="fa fa-child" style="color:plum"></i>

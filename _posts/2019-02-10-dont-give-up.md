@@ -1,12 +1,14 @@
 ---
+title: ไปต่อไป เป็นกำลังใจให้ตัวเอง
+date: 2019-02-10 03:06:09 Z
+tags:
+- Mindful
 layout: post
-title: "ไปต่อไป เป็นกำลังใจให้ตัวเอง"
-date: 2019-02-10 10:06:09 +0700
-feature-img: "https://source.unsplash.com/_SbeCWYjwCQ"
+feature-img: https://source.unsplash.com/_SbeCWYjwCQ
 credit-name: Masaaki Komori
 credit-user: "@gaspanik"
-tags: Mindful
 ---
+
 วันนี้เรียนรู้ที่จะหยุดพักตัวเอง เป็นการหยุดเพื่อที่จะไปต่อไป เพราะหลายๆ ครั้ง
 
 - สิ่งแวดล้อมพาเราไป

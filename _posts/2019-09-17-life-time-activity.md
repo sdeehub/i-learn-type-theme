@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "เมตตา"
-date: 2019-09-17 09:04:43 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: เมตตา
+date: 2019-09-17 02:04:43 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 จงฝึกฝนใจเราให้มี **เมตตา** ไว้ให้มาก แล้วเราจะเห็นว่าทุกคนที่เกิดมาบนโลกนี้ ไม่ว่าจะเป็นคนดี หรือไม่ดี ล้วนแต่มี **กรรม** เป็นของๆ ตน เมื่อเห็นดังนี้แล้วเราก็จะไม่โกรธ หรือเกลียดใคร เพราะมีแต่คนที่น่าสงสาร น่าเห็นใจ ทั้งนั้น
 
 - จะถูกใส่ร้ายยังไง ก็ให้นิ่ง

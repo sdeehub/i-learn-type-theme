@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "เปลี่ยนเป็น ใช่"
-date: 2020-01-10 21:01:22 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: เปลี่ยนเป็น ใช่
+date: 2020-01-10 14:01:22 Z
 tags:
 - Practicing
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
 คนที่ชอบโน้มน้าวใจคนจะย้ำถึงประโยชน์ต่างๆ เพื่อช่วยให้เขามองเห็นภาพรวมของทางออกด้วยตัวของเขาเอง

@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "MIXT!"
-date: 2019-09-08 23:18:27 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: MIXT!
+date: 2019-09-08 16:18:27 Z
 tags:
 - Weekend
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 > Perspective is everything!
 
 <i class="fa fa-child" style="color:plum"></i>

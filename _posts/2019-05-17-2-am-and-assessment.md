@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "วันศุกร์"
-date: 2019-05-17 23:21:44 +0700
-feature-img: "https://source.unsplash.com/j6brni7fpvs"
-credit-name: "Aline de Nadai"
-credit-user: "@alinedenadai"
+title: วันศุกร์
+date: 2019-05-17 16:21:44 Z
 tags:
 - Reference
+layout: post
+feature-img: https://source.unsplash.com/j6brni7fpvs
+credit-name: Aline de Nadai
+credit-user: "@alinedenadai"
 ---
+
 > Setting goals is the first step in turning the invisible into the visible. ~ Tony Robbins
 
  <i class="fa fa-child" style="color:plum"></i>

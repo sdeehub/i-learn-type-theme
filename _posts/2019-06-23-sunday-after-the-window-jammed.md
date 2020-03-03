@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "หลังจากกระจกตก"
-date: 2019-06-23 21:12:09 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: หลังจากกระจกตก
+date: 2019-06-23 14:12:09 Z
 tags:
 - Love
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 - ยกเลิก True Internet ของบริษัทฯ ต้องเตรียมหนังสือรับรองมาด้วย / ยกเลิกวันไหนก็คิดค่าบริการเฉลี่ยตามวัน - งั้นเราก็กลับมายกเลิกอาทิตย์หน้า
 - สาย Chain Lock ของจักรยานจาก Diso - หมุนรหัสแล้วก็ปลดล๊อค ถ้าจะตั้งใหม่ไปที่ 0-0-0-0 ก่อน
 

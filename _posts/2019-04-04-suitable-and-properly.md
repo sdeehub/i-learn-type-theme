@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "ให้สมกับที่เรามี"
-date: 2019-04-04 22:25:45 +0700
-feature-img: "https://source.unsplash.com/mpdIPhYqZ4Y"
-credit-name: "Heng Films"
-credit-user: "@hengfilms"
+title: ให้สมกับที่เรามี
+date: 2019-04-04 15:25:45 Z
 tags:
 - Manner
+layout: post
+feature-img: https://source.unsplash.com/mpdIPhYqZ4Y
+credit-name: Heng Films
+credit-user: "@hengfilms"
 ---
+
 สรุปบทเรียนในวันนี้จากพี่กบเลือดเข้ม ก็ว่าได้:
 
 เรามีเกียรติ - เราก็ต้องอยู่ให้สมเกียรติ / เรามีครอบครัว - เราก็ต้องอยู่ให้สมกับที่มีครอบครัว / เรามีความรู้ - เราก็ต้องอยู่ให้เหมาะสมกับที่มีความรู้

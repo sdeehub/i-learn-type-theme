@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "มีหวัง ถึงมีหมดหวัง"
-date: 2019-04-08 22:11:00 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: มีหวัง ถึงมีหมดหวัง
+date: 2019-04-08 15:11:00 Z
 tags:
 - Practicing
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 มีความอยาก มีความหวัง - แบบนี้ก็เตรียมพร้อมที่จะอดอยาก และหมดหวัง เพราะความเป็นไป ไม่ได้เป็นไปตามที่เราอยากและเราหวัง
 
 ต่อเมื่อมีความพยายาม และพยายาม และก็ยังพยายาม - ถึงจะสิ้นหวัง ก็ยังพยายาม แบบนี้ความรู้สึกจะแตกต่างกันลิบลับ

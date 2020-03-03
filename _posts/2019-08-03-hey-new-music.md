@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "เพลงที่น่าสนใจ"
-date: 2019-08-03 22:21:02 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: เพลงที่น่าสนใจ
+date: 2019-08-03 15:21:02 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
 ได้ฟัง Jeff Bernet และช่อง Scary Pockets บน Youtube

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Perfect Day"
-date: 2019-11-21 09:09:54 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: Perfect Day
+date: 2019-11-21 02:09:54 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
 คนเราทำชั่วได้ทุกนาที แต่พอทำดี ต้องดูฤกษ์ยาม

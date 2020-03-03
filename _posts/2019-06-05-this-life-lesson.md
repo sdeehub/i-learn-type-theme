@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "จากหนังสือ วิชาแรก วิชาชีวิต"
-date: 2019-06-05 12:11:39 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/a_0/v1559799292/IMG_8123.jpg"
+title: จากหนังสือ วิชาแรก วิชาชีวิต
+date: 2019-06-05 05:11:39 Z
 tags:
 - Life
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/a_0/v1559799292/IMG_8123.jpg
 ---
+
 เพื่อนดี พลิกชีวิต - โยนิโสมนสิการ : ถ้ามีโยนิโสมนสิการ คือ ความรู้จักคิดแล้ว ต้นไม้ใบหญ้า ทุกสิ่งทุกอย่างก็สามารถเป็นกัลยาณมิตรให้เราได้
 
 <i class="fa fa-child" style="color:plum"></i>

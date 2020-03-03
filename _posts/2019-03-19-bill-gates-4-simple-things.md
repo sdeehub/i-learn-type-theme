@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "4 เรื่องง่ายๆ"
-date: 2019-03-19 18:21:19 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: 4 เรื่องง่ายๆ
+date: 2019-03-19 11:21:19 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 Here's how anyone can achieve the same level of happiness as Gates.
 
 1. Follow through on your commitments.

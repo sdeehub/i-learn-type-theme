@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "อันนี้ดีนะ"
-date: 2019-08-25 22:03:13 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: อันนี้ดีนะ
+date: 2019-08-25 15:03:13 Z
 tags:
 - Life
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 Friends:
 1. You can't have friends without getting vulnerable.
 2. Remember that people will like you more than you think they will.

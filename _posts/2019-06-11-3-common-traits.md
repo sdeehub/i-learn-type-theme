@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "ผู้นำ"
-date: 2019-06-11 12:22:12 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: ผู้นำ
+date: 2019-06-11 05:22:12 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 1. Great leaders create clarity
 2. Great leaders create energy
 3. Great leaders create success - no matter the circumstances

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Markdown"
-date: 2019-11-29 10:04:14 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: Markdown
+date: 2019-11-29 03:04:14 Z
 tags:
 - Coding
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
 <details>

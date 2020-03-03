@@ -1,12 +1,14 @@
 ---
+title: ฟัง+กระบวนการ
+date: 2019-03-11 09:27:21 Z
+tags:
+- Love
 layout: post
-title: "ฟัง+กระบวนการ"
-date: 2019-03-11 16:27:21 +0700
-feature-img: "https://source.unsplash.com/vcLGO6RoIoA"
-credit-name: "Tina Floersch"
+feature-img: https://source.unsplash.com/vcLGO6RoIoA
+credit-name: Tina Floersch
 credit-user: "@tfloersch"
-tags: Love
 ---
+
 *เรื่องที่ (1)*
 > การรับฟังผู้อื่นก็ถือได้ว่าเป็นการให้ของขวัญอย่างหนึ่งที่ใครๆ ก็สามารถที่จะให้ได้ และจะให้กับใครก็ได้ไม่ต้องมีการลงทุนลงแรงใดๆ ทั้งสิ้น ~ ความรักแด่หนุ่มสาว
 

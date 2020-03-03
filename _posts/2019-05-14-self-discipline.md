@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "สิ่งที่ต้องทำ สิ่งที่ต้องจำ"
-date: 2019-05-14 14:59:02 +0700
-feature-img: "https://source.unsplash.com/z1d-LP8sjuI"
-credit-name: "Hello I'm Nik"
-credit-user: "@helloimnik"
+title: สิ่งที่ต้องทำ สิ่งที่ต้องจำ
+date: 2019-05-14 07:59:02 Z
 tags:
 - Reference
+layout: post
+feature-img: https://source.unsplash.com/z1d-LP8sjuI
+credit-name: Hello I'm Nik
+credit-user: "@helloimnik"
 ---
+
 สิ่งที่ไม่อยากให้ใครทำกับเรา เราก็ไม่ทำสิ่งนั้นกับใคร
 
  <i class="fa fa-child" style="color:plum"></i>

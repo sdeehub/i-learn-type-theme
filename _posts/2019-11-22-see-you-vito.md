@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Jordan Belfort"
-date: 2019-11-22 09:09:54 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: Jordan Belfort
+date: 2019-11-22 02:09:54 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
 If it doesn’t bring you Income, Inspiration, or Orgasms, then it’s not in my life.

@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Confident at Ease"
-date: 2019-09-10 17:45:23 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: Confident at Ease
+date: 2019-09-10 10:45:23 Z
 tags:
 - Practicing
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 Be confident (check points)
 - Start each day out right
 - Check body posture

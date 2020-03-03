@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "คนที่บ้าน"
-date: 2019-08-28 21:54:50 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: คนที่บ้าน
+date: 2019-08-28 14:54:50 Z
 tags:
 - Life
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 > มันน่าแปลกที่คนเรามักจะชื่นชมคนแปลกหน้าว่ามีน้ำใจ ทั้งที่เขาช่วยเหลือเราเพียงครั้งเดียว แต่กลับตำหนิคนใกล้ชิดว่าไร้น้ำใจ ทั้งที่เขาช่วยเหลือเรามาตลอดแต่ปฏิเสธที่จะช่วยเพียงครั้งเดียว ~ นิรุตติ์ ศิริจรรยา
 
 <i class="fa fa-child" style="color:plum"></i>

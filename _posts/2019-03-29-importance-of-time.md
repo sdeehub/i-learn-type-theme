@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "เวลาที่ดี"
-date: 2019-03-29 23:33:44 +0700
-feature-img: "https://source.unsplash.com/yYSY93clr4w"
-credit-name: "Thao Le Hoang"
-credit-user: "@h4x0r3"
+title: เวลาที่ดี
+date: 2019-03-29 16:33:44 Z
 tags:
 - Practicing
+layout: post
+feature-img: https://source.unsplash.com/yYSY93clr4w
+credit-name: Thao Le Hoang
+credit-user: "@h4x0r3"
 ---
+
 > จงฝึกหัดและเคารพเวลาให้ดี
 
 เวลาที่ดี เวลาที่ตรง ก็คือตรงเวลา ก็คือตรงตามเวลาที่เราว่าไว้ พยายามตั้งใจ พยายามกำหนดสิ่งต่างๆ ให้เป็นไปให้ตรงเวลา - จริงๆ เมื่อดูให้ดีๆ ก็กลับมาที่ตัวเรานั่นเอง ควบคุม ดูแล กำหนดที่ตัวเรา มีเวลาเป็นเครื่องมืออย่างหนึ่งไว้สื่อสารกัน

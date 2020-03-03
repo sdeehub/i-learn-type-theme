@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "The Learner"
-date: 2019-12-28 22:04:40 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: The Learner
+date: 2019-12-28 15:04:40 Z
 tags:
 - Mindset
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 Everything was done, To try to learn, How to become a better basketball player.
 
 Everything. Everything.

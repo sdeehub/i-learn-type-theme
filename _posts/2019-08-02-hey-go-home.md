@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "วันกลับบ้าน"
-date: 2019-08-02 22:21:02 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: วันกลับบ้าน
+date: 2019-08-02 15:21:02 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 วันนี้ได้เรียนรู้สิ่งสำคัญว่าต้องเหลือพลังงานไว้บ้าง / เตรียมใจไว้บ้าง เพราะเวลาที่เราเหนื่อยมาก ก็จะหงุดหงิดมาก และ ยิ่งถ้าหมดแรงแล้วก็จะยิ่งเปราะบาง แล้วเวลาแบบนี้ก็อาจจะหยาบคายได้ง่ายๆ
 
 คราวนี้ก็ต้องระมัดระวัง และพร้อมจะเข้าใจคนอื่นในสถานการณ์แบบนี้เช่นกัน

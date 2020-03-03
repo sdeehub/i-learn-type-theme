@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "ปรับการใช้งาน"
-date: 2019-09-04 14:32:53 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: ปรับการใช้งาน
+date: 2019-09-04 07:32:53 Z
 tags:
 - Practicing
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 - วันนี้ปรับค่า Windows 10 เพราะเครื่องมี RAM น้อย
 - ปรับมาใช้ VM และ ArchLinux
 

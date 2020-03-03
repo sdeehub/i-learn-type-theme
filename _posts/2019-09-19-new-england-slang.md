@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "ว่าไงนะ?"
-date: 2019-09-19 09:04:43 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: ว่าไงนะ?
+date: 2019-09-19 02:04:43 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 New Englanders Slang
 
 - Masshole > Mass. Asshole (Driver)

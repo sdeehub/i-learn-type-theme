@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "แม่"
-date: 2020-02-09 16:34:00 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: แม่
+date: 2020-02-09 09:34:00 Z
 tags:
 - Love
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 1 ปีมีวันหยุดได้ 2 ครั้ง
 
 <i class="fa fa-child" style="color:plum"></i>

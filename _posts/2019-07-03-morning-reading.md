@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "จากท่านพุทธทาส"
-date: 2019-07-03 07:02:41 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: จากท่านพุทธทาส
+date: 2019-07-03 00:02:41 Z
 tags:
 - Life
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 กราบไหว้พระพุทธ อย่าให้ไปสะดุดที่พระทองคำ / กราบไหว้พระธรรม อย่าให้ไปขย้ำเอาใบลาน / กราบไหว้พระสงฆ์ อย่าให้ไปถูกเอาลูกชาวบ้าน
 
 ~ ๓ูเขาแห่งวิถีพุทธธรรม - ท่านพุทธทาส (พูดถึงจากในหนังสือธรรมะรอบกองไฟ - ขวัญ เพียงหทัย)

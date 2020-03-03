@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "ยอม!"
-date: 2019-04-03 22:20:22 +0700
-feature-img: "https://source.unsplash.com/YBmFiBufJP8"
-credit-name: "Nathan Lemon"
-credit-user: "@processrepeat"
+title: ยอม!
+date: 2019-04-03 15:20:22 Z
 tags:
 - Reference
+layout: post
+feature-img: https://source.unsplash.com/YBmFiBufJP8
+credit-name: Nathan Lemon
+credit-user: "@processrepeat"
 ---
+
 ไม่ว่าอะไรจะเกิดขึ้น ไม่ว่าความรู้สึกที่ได้จะลบยังไง - เราเปลี่ยนแปลงทุกสิ่ง ทุกอย่างได้ เราควบคุม เรารับรู้อารมณ์ และควบคุมความคิดตอบสนองได้
 
 อารมณ์ลบ อารมณ์ร้าย - เราก็รักตัวเราเองให้มากยิ่งขึ้น / อารมณ์สุข อารมณ์ดี - เราก็แบ่งปันความรู้สึกดีๆ ออกไป ทั้งหมดนี้เราควบคุมที่ตัวเรา

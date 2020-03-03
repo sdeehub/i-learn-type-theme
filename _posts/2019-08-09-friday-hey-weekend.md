@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "เรา(ยัง)เปลี่ยนได้นะ"
-date: 2019-08-09 22:02:48 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: เรา(ยัง)เปลี่ยนได้นะ
+date: 2019-08-09 15:02:48 Z
 tags:
 - Life
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 คืนนี้นอนไม่หลับ ขยับซ้าย/ขวา สักพักมียุงมาร่วมด้วย - ทำอะไรบ้างตอนที่เรานอนไม่หลับ?
 
 - เปิดไฟจับยุงไปใส่ห้องน้ำ เก็บยุงไว้ในนั้น

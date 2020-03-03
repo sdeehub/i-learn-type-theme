@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "ทำให้เราน่าสนใจขึ้น?"
-date: 2019-04-22 13:19:58 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: ทำให้เราน่าสนใจขึ้น?
+date: 2019-04-22 06:19:58 Z
 tags:
 - Practicing
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 1. *Develop new skills* - learn as many useful skills as you can.
 2. *Be curious* - actively seek out new ideas and experiences.
 3. *Learn how to tell a good story* - don't just dump whatever is on your mind into the conversation; you purposefully shape it to make it interesting.  

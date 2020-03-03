@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "A Meaningful Connection"
-date: 2019-12-12 19:38:13 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: A Meaningful Connection
+date: 2019-12-12 12:38:13 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 How to build a meaningful connection
 
 - Before the event: do your research - who will be there, their backgrounds and interests

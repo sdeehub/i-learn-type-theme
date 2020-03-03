@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "หมี่ตะคุ"
-date: 2019-08-29 21:54:50 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: หมี่ตะคุ
+date: 2019-08-29 14:54:50 Z
 tags:
 - Practicing
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 Learning Language(s)
 - Speak out!
 - Read out loud

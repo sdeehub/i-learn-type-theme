@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "จาก Martin Luther King Jr."
-date: 2019-03-26 08:18:57 +0700
-feature-img: "https://source.unsplash.com/CakC6u4d95g"
-credit-name: "JOHN TOWNER"
-credit-user: "@heytowner"
+title: จาก Martin Luther King Jr.
+date: 2019-03-26 01:18:57 Z
 tags:
 - Success
+layout: post
+feature-img: https://source.unsplash.com/CakC6u4d95g
+credit-name: JOHN TOWNER
+credit-user: "@heytowner"
 ---
+
 Be a bush if you can't be a tree.
 
 If you can't be a highway, Just be a trail.

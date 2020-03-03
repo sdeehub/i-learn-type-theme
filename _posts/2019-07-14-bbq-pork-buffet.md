@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "19 ปีแล้วนะ"
-date: 2019-07-14 22:38:32 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: 19 ปีแล้วนะ
+date: 2019-07-14 15:38:32 Z
 tags:
 - Life
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 วันนี้เมื่อ 19 ปีที่แล้ว?
 
 - วันนี้ของปีนี้ทำให้รู้ว่า พวกเราต้องหาเวลาไปบ้านกลางสวน บ่อพลับกัน

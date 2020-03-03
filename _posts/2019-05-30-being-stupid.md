@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "ไม่รู้ ก็ถาม"
-date: 2019-05-30 22:42:21 +0700
-feature-img: "https://source.unsplash.com/v4bkVOl1sTI"
-credit-name: "TOMOKO UJI"
-credit-user: "@ujitomo"
+title: ไม่รู้ ก็ถาม
+date: 2019-05-30 15:42:21 Z
 tags:
 - Mindset
+layout: post
+feature-img: https://source.unsplash.com/v4bkVOl1sTI
+credit-name: TOMOKO UJI
+credit-user: "@ujitomo"
 ---
+
 - คนเก่งคือคนที่พลาดมาก่อนนับครั้งไม่ถ้วน
 - ไม่รู้ ก็ถาม - ไม่มีอะไรแปลกไปกว่านี้แล้ว
 - Successful people do what unsuccessful people are unwilling to do.

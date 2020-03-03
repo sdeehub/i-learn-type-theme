@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "What?"
-date: 2019-10-25 19:48:04 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: What?
+date: 2019-10-25 12:48:04 Z
 tags:
 - Powerful Question
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 What we think
 
 <i class="fa fa-child" style="color:plum"></i>

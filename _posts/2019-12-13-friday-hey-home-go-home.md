@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "การฝึกซ้อม"
-date: 2019-12-13 19:38:13 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: การฝึกซ้อม
+date: 2019-12-13 12:38:13 Z
 tags:
 - Practicing
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 การฝึกซ้อม?
 
 <i class="fa fa-child" style="color:plum"></i>

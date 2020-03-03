@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "สิ่งที่เราไม่รู้"
-date: 2019-06-28 22:24:13 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: สิ่งที่เราไม่รู้
+date: 2019-06-28 15:24:13 Z
 tags:
 - Life
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 ราชสีมาทัวร์ - รถออกทุกๆ ชั่วโมง ตอนครึ่งชั่วโมง เช่น 5 ครึ่ง / 6 ครึ่ง
 
 วันนี้ได้รถเที่ยว 6 ครึ่ง - รถมาถึงท่าประมาณ 6.45 รถมาถึงกรุงเทพฯ (หมอชิต 2) ประมาณ 4 ทุ่มหน่อยๆ ครั้งต่อไปน่าจะลงรถตรงก่อนเลี้ยวขึ้นสะพานได้อยู่นะ

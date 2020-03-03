@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "ลองใช้ Python"
-date: 2019-11-03 19:13:50 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: ลองใช้ Python
+date: 2019-11-03 12:13:50 Z
 tags:
 - Coding
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
 With the new day comes new strength and new thoughts. ~ Eleanor Roosevelt

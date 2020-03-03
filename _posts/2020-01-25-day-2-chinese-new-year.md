@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "ผู้นำ"
-date: 2020-01-25 13:33:45 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: ผู้นำ
+date: 2020-01-25 06:33:45 Z
 tags:
 - Mindset
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
 ของขวัญที่ยิ่งใหญ่ที่สุดที่ผู้นำมอบให้ลูกน้องได้คือ

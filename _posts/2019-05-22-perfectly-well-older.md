@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "ยอมรับ"
-date: 2019-05-22 13:53:48 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: ยอมรับ
+date: 2019-05-22 06:53:48 Z
 tags:
 - Practicing
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 ก็แค่ *ยอมรับ* ไม่ใช่ให้เอามาใช้เป็น *ข้ออ้าง* - นอนดึก 3 วันติด ในแบบที่หัวสมองต้องใช้คิด ใช้เรียนหนังสือด้วย ดูจะทำให้เห็นได้ชัดว่าร่างกายต้องการการพักผ่อนมากแค่ไหน
 
 อายุมากขึ้นก็คือความจริงที่ต้องยอมรับ และ ถือว่าน่ายินดีไปด้วยพร้อมๆ กัน

@@ -1,10 +1,12 @@
 ---
+title: 3 ใน 6 ข้อของ Buffet Strategy
+date: 2019-02-14 09:08:01 Z
+tags:
+- Mindset
 layout: post
-title: "3 ใน 6 ข้อของ Buffet Strategy"
-date: 2019-02-14 16:08:01 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
-tags: Mindset
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 *(1)* Kill busy work - write down top 25 goals, circle the top 5 then take the 20 goals and put them on an "avoid-at-all-cost"
 
 > No matter what, these things get no attention from you until you've succeeded with your top 5.

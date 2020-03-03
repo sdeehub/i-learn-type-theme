@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "เล่าให้ฟัง แล้วเราก็ตั้งใจฟัง"
-date: 2019-07-23 07:05:39 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: เล่าให้ฟัง แล้วเราก็ตั้งใจฟัง
+date: 2019-07-23 00:05:39 Z
 tags:
 - Practicing
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 Did you have a good holiday? Tell me about it.
 
 - What was your favorite city?

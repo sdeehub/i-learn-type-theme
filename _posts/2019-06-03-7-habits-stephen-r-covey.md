@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "7 Habits"
-date: 2019-06-03 10:25:22 +0700
-feature-img: "https://source.unsplash.com/rVbl6qgDPa8"
-credit-name: "Grant Ritchie"
-credit-user: "@grantritchie"
+title: 7 Habits
+date: 2019-06-03 03:25:22 Z
 tags:
 - Mindset
+layout: post
+feature-img: https://source.unsplash.com/rVbl6qgDPa8
+credit-name: Grant Ritchie
+credit-user: "@grantritchie"
 ---
+
 1. Be Proactive - Focus on things we can change. And do it proactively, before we are forced to do something about it.
 2. Begin with the End in Mind - Envision your future using both logic and imagination. Let it be based on principles. Write down your own mission statements. Imagine what your friends, family, colleagues, community will tell about you.
 3. Put First Things First - Important and Urgent!

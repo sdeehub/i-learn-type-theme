@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "95"
-date: 2019-06-13 19:03:40 +0700
-feature-img: "https://source.unsplash.com/wSTCaQpiLtc"
-credit-name: Louis Reed
-credit-user: "@_louisreed"
+title: '95'
+date: 2019-06-13 12:03:40 Z
 tags:
 - Reference
+layout: post
+feature-img: https://source.unsplash.com/wSTCaQpiLtc
+credit-name: Louis Reed
+credit-user: "@_louisreed"
 ---
+
 ถ้าฟังมาถูกคือเกิดขึ้นในปี 95 - ช่วงนั้นจำได้ว่าทั่วๆ ไปจะพูดกันถึง CIM แต่ตอนเรียนจะเป็น Integrated Manufacturing ซะมากกว่า
 
 แต่ว่าผ่านไปเป็นหลายสิบปีมาถึงครั้งนี้สิ่งที่ได้ยินกลายเป็น Automation Engineering แล้วก็เผอิญมาได้ถึงตอนนี้ คราวนี้ วันนี้ก็เลยได้มารู้จักกับ MOM และก็ได้ดูทุกๆ Level ว่ามีอะไรบ้างสำหรับ ISA-95

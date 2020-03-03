@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Battle of Boyne"
-date: 2019-07-12 22:38:32 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: Battle of Boyne
+date: 2019-07-12 15:38:32 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 July 12 - Battle of the Boyne
 
 - Orangemen's Day

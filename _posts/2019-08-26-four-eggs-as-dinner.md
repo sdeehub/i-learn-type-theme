@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "ไข่ต้ม 4 ฟอง"
-date: 2019-08-26 21:54:50 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: ไข่ต้ม 4 ฟอง
+date: 2019-08-26 14:54:50 Z
 tags:
 - Life
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 > Your dream should be on your mind everyday.
 
 - Pixie Cut คือตัดผมสั้น

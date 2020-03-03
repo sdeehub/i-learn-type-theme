@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "ศุกร์ 14"
-date: 2019-06-14 19:03:40 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: ศุกร์ 14
+date: 2019-06-14 12:03:40 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 *ความจำให้แม่น*
 1. ตั้งคำถามกับตัวเอง - Quiz ดูว่าจำอะไรได้บ้าง ถ้าถามตัวเองแล้วรู้ว่ายังจำไม่ได้ ตัวเราเองก็จะยิ่งตื่นตัวและเปิดรับความจำหลังจากเปิดดูเฉลย
 2. สรุปแล้วเล่าต่อ - ช่วยให้จำและเข้าใจ และเมื่อเราได้ถ่ายทอดนี่ยิ่งทำให้แม่น

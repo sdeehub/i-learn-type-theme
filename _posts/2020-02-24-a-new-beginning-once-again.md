@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "ถึงเวลา"
-date: 2020-02-24 21:59:02 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: ถึงเวลา
+date: 2020-02-24 14:59:02 Z
 tags:
 - Mindset
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
 Make it happen, Odd!

@@ -1,10 +1,12 @@
 ---
+title: ยอมรับและปรับเสียงด้วย
+date: 2019-02-18 12:10:38 Z
+tags:
+- Manner
 layout: post
-title: "ยอมรับและปรับเสียงด้วย"
-date: 2019-02-18 19:10:38 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
-tags: Manner
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 วันนี้ไปเป็นเพื่อนกันทำใบขับขี่รถมอเตอร์ไซด์ ได้เรียนรู้อะไรมาบ้าง? :-
 
 1. ที่จอดรถมีจริงๆ นะ - ขอบคุณความใจเย็นและจินตนาการ เมล็ดพันธ์หรืออะไรก็แล้วแต่ ขอบคุณมากๆ ครับ

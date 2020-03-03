@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "Blogger to Jekyll"
-date: 2019-03-21 15:00:00 +0700
-feature-img: "https://source.unsplash.com/5eBW5GomfhY"
-credit-name: "Irvan Smith"
-credit-user: "@mr_vero"
+title: Blogger to Jekyll
+date: 2019-03-21 08:00:00 Z
 tags:
 - Reference
+layout: post
+feature-img: https://source.unsplash.com/5eBW5GomfhY
+credit-name: Irvan Smith
+credit-user: "@mr_vero"
 ---
+
 กำลังจะย้าย Post ที่ค้างอยู่ที่ Blogger ไป Jekyll - มีรายละเอียดตามนี้:
 - [Backup Blogger](https://support.google.com/blogger/answer/41387?hl=en)
 - [Blogger to Jekyll](https://import.jekyllrb.com/docs/blogger/)

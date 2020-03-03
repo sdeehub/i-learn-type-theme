@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Siteleaf"
-date: 2020-03-03 15:12:32 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: Siteleaf
+date: 2020-03-03 08:12:32 Z
 tags:
 - Mindset
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
 Let's check out - [siteleaf](https://www.siteleaf.com/)

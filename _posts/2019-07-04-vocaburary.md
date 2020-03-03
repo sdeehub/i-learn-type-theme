@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "เรียนรู้คำศัพท์"
-date: 2019-07-04 23:02:41 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: เรียนรู้คำศัพท์
+date: 2019-07-04 16:02:41 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 *Vocabulary* - uncountable or mass noun : the body of words used in a particular language.
 
 *Postapocalyptic* - adj. : denoting or relating to the time following a nuclear war or other catastrophic event.

@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "เรื่องดีที่เล็กน้อย ก็มีพลัง"
-date: 2019-02-27 19:37:09 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1551280407/IMG_7234.jpg"
-credit-name:
-credit-user:
+title: เรื่องดีที่เล็กน้อย ก็มีพลัง
+date: 2019-02-27 12:37:09 Z
 tags:
 - Cheer Up
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1551280407/IMG_7234.jpg
+credit-name: 
+credit-user: 
 ---
+
 วันนี้ได้รู้ว่าเรื่องดีๆ ที่เล็กน้อยมากๆ นั้น ก็มีพลังที่ยิ่งใหญ่อยู่ในตัวเหมือนกัน อย่างเช่น:-
 
 - รอยยิ้มที่ฝืนยิ้ม ถึงจะฝืนแต่อย่างน้อยก็ยังช่วยลดความตึงบนใบหน้า กล้ามเนื้อบนใบหน้าก็ทำงานน้อยลง สมองก็น่าจะโดนหลอกไปด้วย

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HELP"
-date: 2020-01-12 21:01:22 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: HELP
+date: 2020-01-12 14:01:22 Z
 tags:
 - Practicing
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
 HELP!

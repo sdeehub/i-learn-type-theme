@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "MacOS"
-date: 2020-02-16 21:26:23 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: MacOS
+date: 2020-02-16 14:26:23 Z
 tags:
 - Practicing
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 MacOS + NTFS = Not working!
 
 <i class="fa fa-child" style="color:plum"></i>

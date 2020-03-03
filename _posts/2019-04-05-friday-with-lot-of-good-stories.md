@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "หลายเรื่องที่เปิดความคิด"
-date: 2019-04-05 12:55:39 +0700
-feature-img: "https://source.unsplash.com/tnLFmR6mM_4"
-credit-name: "Alina Grubnyak"
-credit-user: "@alinnnaaaa"
+title: หลายเรื่องที่เปิดความคิด
+date: 2019-04-05 05:55:39 Z
 tags:
 - Mindful
+layout: post
+feature-img: https://source.unsplash.com/tnLFmR6mM_4
+credit-name: Alina Grubnyak
+credit-user: "@alinnnaaaa"
 ---
+
 Emotional Awareness - Practice: (Source: [mindful.org](https://www.mindful.org/emotional-rescue-using-mindfulness-to-reset-your-reactions/?mc_cid=8833a43868&mc_eid=a6ef769556))
 1. Recognize emotions more often as they arise. Label briefly, if you like, whatever emotion you notice.
 2. Refrain, for a moment, from doing whatever you typically do with that emotion. Pause, take a few breaths, and let things alone before taking a next step.

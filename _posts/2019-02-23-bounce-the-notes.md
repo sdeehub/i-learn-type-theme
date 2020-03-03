@@ -1,12 +1,14 @@
 ---
+title: โยนเสียงและการกระเพื่อมแบบควอนตัม
+date: 2019-02-23 07:07:48 Z
+tags:
+- Practicing
 layout: post
-title: "โยนเสียงและการกระเพื่อมแบบควอนตัม"
-date: 2019-02-23 14:07:48 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1550993045/IMG_20190224_140207286.jpg"
-credit-name:
-credit-user:
-tags: Practicing
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1550993045/IMG_20190224_140207286.jpg
+credit-name: 
+credit-user: 
 ---
+
 วันนี้เรียนร้องเพลง ได้เรียนรู้ซ้ำอีกครั้งว่า 'การโยนเสียง' เอามาช่วยทำให้ร้องเสียงสูงได้สบายขึ้น จะแตะโน้ตมั๊ย ก็อาจจะได้หรือไม่ได้ แต่การโยนเสียงทำให้ผ่อนคลายทั้งสำหรับคนร้อง และ คนฟัง
 
 อีกอย่างที่ได้เรียน แต่ไม่ค่อยได้รู้เรื่อง ของวันนี้คือได้อ่านหนังสือ 'ประวัติย่อของตัวผม' - Stephen Hawking : My Brief History เอาเป็นว่าเคยได้ยินชื่อ หรือได้ยินคำเหล่านี้ไว้บ้างก็แล้วกัน

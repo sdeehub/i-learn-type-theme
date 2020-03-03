@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "ตี 5 ของเช้าวันนี้"
-date: 2019-06-25 10:01:59 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: ตี 5 ของเช้าวันนี้
+date: 2019-06-25 03:01:59 Z
 tags:
 - Love
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 > I never lie because I don't fear anyone. You only lie when you are afraid. ~ The.Success.King
 
 <i class="fa fa-child" style="color:plum"></i>

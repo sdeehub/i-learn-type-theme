@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "Remote Work"
-date: 2019-04-26 10:35:53 +0700
-feature-img: "https://source.unsplash.com/HMmS8VJ-orE"
-credit-name: "Dan Gold"
-credit-user: "@danielcgold"
+title: Remote Work
+date: 2019-04-26 03:35:53 Z
 tags:
 - Reference
+layout: post
+feature-img: https://source.unsplash.com/HMmS8VJ-orE
+credit-name: Dan Gold
+credit-user: "@danielcgold"
 ---
+
 3 ข้อหลักของการทำงานร่วมกันในแบบ remote work:
 
 1. Communication - อธิบาย ทำความเข้าใจ สื่อสารความคืบหน้า หรือข้อติดขัด สถานการณ์ แนวคิดให้ตรงกัน

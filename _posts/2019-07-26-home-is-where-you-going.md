@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "เย้! กลับบ้าน"
-date: 2019-07-26 22:12:07 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: เย้! กลับบ้าน
+date: 2019-07-26 15:12:07 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 ก่อนกลับบ้านได้เรียนรู้อะไรบ้าง?
 
 - What's interesting? (movie / book / journey - that most changed your life)

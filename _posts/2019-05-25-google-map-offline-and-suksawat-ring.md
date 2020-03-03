@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "ไปงานตอนค่ำ"
-date: 2019-05-25 21:57:16 +0700
-feature-img: "https://source.unsplash.com/uCMKx2H1Y38"
-credit-name: "AbsolutVision"
-credit-user: "@freegraphictoday"
+title: ไปงานตอนค่ำ
+date: 2019-05-25 14:57:16 Z
 tags:
 - Manner
+layout: post
+feature-img: https://source.unsplash.com/uCMKx2H1Y38
+credit-name: AbsolutVision
+credit-user: "@freegraphictoday"
 ---
+
 เรียนรู้เส้นทางจากการไป -วัดไพชยนต์พลเสพย์- ขากลับวนขึ้นวงแหวนอุตสาหกรรมตรงคลองลัดโพธิ์ เข้าพระราม 3 แล้วเข้าพระราม 4 ตรงเส้นเชื้อเพลิง จากนั้นก็ไปเส้นทางปกติสามย่าน-มาบุญครอง-พญาไท ครัวกรุงเทพ - ร้านนี้จอดรถในซอยเล็กๆ ก่อนถึงร้าน!
 
 <i class="fa fa-child" style="color:plum"></i>

@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "หน้าที่ของเรา"
-date: 2019-10-05 22:39:40 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: หน้าที่ของเรา
+date: 2019-10-05 15:39:40 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 Seeing your own role as helping others succeed
 
 1. You Can Manage Your Emotions Under Pressure

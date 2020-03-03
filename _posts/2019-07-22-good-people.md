@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "คนดี คือ?"
-date: 2019-07-22 21:33:01 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: คนดี คือ?
+date: 2019-07-22 14:33:01 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 - Good people bring out the good in people.
 - You are what make this world so beautiful.
 

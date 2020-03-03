@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "ไปงานตอนบ่าย"
-date: 2019-05-26 22:11:56 +0700
-feature-img: "https://source.unsplash.com/JebVZfZi-3I"
-credit-name: "AbsolutVision"
-credit-user: "@freegraphictoday"
+title: ไปงานตอนบ่าย
+date: 2019-05-26 15:11:56 Z
 tags:
 - Social
+layout: post
+feature-img: https://source.unsplash.com/JebVZfZi-3I
+credit-name: AbsolutVision
+credit-user: "@freegraphictoday"
 ---
+
 แวะไปเจอเพื่อนๆ พูด-คุยกันสนุกสนาน ส่วนใหญ่จะนั่งฟังแล้วก็ขำซะมากกว่า มิตรภาพกับเพื่อนสมัยเด็กๆ ก็เป็นแบบนี้ - วันนี้ได้เรียนรู้ว่า ความทรงจำของเพื่อนๆ จะเต็มไปด้วยความสุขและอบอุ่นอยู่เสมอๆ
 
 <i class="fa fa-child" style="color:plum"></i>

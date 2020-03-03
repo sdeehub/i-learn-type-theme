@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "คนบ้าข่าว"
-date: 2019-07-07 12:29:46 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1562477937/IMG_25620707_123310.jpg"
+title: คนบ้าข่าว
+date: 2019-07-07 05:29:46 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1562477937/IMG_25620707_123310.jpg
 ---
+
 อะไรที่ไม่ถูก สังคมเราจะไม่ยอม - อะไรที่ไม่ชัดเจน อะไรที่เอาเปรียบคนอื่น เราจะไม่ยอม - อะไรที่เป็นเรื่องผิดจริยธรรม ผิดศีลธรรม เราจะไม่ยอม - นอกจากจะไม่ยอมทำแล้ว ยังไม่ยอมให้เพื่อน คนใกล้ชิดทำอีกด้วย
 
 <i class="fa fa-child" style="color:plum"></i>

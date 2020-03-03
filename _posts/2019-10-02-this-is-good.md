@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Hotel Hacks"
-date: 2019-10-02 22:39:40 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: Hotel Hacks
+date: 2019-10-02 15:39:40 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 Quora : Jackie Elizabeth Callaway
 
 As Hotel Front Desk Supervisor, I would recommend the following:

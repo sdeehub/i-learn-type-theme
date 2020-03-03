@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Quora - What do you do?"
-date: 2019-11-24 09:09:54 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: Quora - What do you do?
+date: 2019-11-24 02:09:54 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
 1. Intersperse the questions in Step#1 with personal anecdotes and experiences. Example: When the person is done answering "What do you do for a living?", one can start talking about what one does for a living (even if one hasn't been asked - but it pays to be mindful that one can come across as a braggart or arrogant if one doesn't employ the right finesse and skill), or tell a story (the funnier, the better) that relates to what they've just said or one's own job-related experiences.

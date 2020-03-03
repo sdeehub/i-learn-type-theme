@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Yes!"
-date: 2020-02-26 14:38:29 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: Yes!
+date: 2020-02-26 07:38:29 Z
 tags:
 - Mindset
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
 Make your dreams happen, Odd!

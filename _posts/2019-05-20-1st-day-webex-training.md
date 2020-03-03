@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "ติดๆ ขัดๆ และง่วงนอน"
-date: 2019-05-20 23:08:34 +0700
-feature-img: "https://source.unsplash.com/uv5_bsypFUM"
-credit-name: "Hack Capital"
-credit-user: "@hackcapital"
+title: ติดๆ ขัดๆ และง่วงนอน
+date: 2019-05-20 16:08:34 Z
 tags:
 - Reference
+layout: post
+feature-img: https://source.unsplash.com/uv5_bsypFUM
+credit-name: Hack Capital
+credit-user: "@hackcapital"
 ---
+
 วันแรกสำหรับ Training ด้วย WebEx
 - ร้อนเหงื่อหยด
 - สับสนเรื่องวันที่หลังเที่ยงคืน

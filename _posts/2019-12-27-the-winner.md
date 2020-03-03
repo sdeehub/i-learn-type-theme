@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "The Winner"
-date: 2019-12-27 22:04:40 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: The Winner
+date: 2019-12-27 15:04:40 Z
 tags:
 - Mindset
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 Winners don't make excuses!
 
 <i class="fa fa-child" style="color:plum"></i>

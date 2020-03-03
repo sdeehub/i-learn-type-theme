@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "ชื่นรัก"
-date: 2019-05-15 15:21:44 +0700
-feature-img: "https://source.unsplash.com/6D58t6uZT5M"
-credit-name: "James Hose Jr"
-credit-user: "@jameshosejr"
+title: ชื่นรัก
+date: 2019-05-15 08:21:44 Z
 tags:
 - Reference
+layout: post
+feature-img: https://source.unsplash.com/6D58t6uZT5M
+credit-name: James Hose Jr
+credit-user: "@jameshosejr"
 ---
+
 ตามหลักจิตวิทยาพื้นฐานแล้ว ความโกรธ ความกลัว และการรู้สึกถึงสิ่งเร้าทางเพศ เป็นเรื่องของความรู้สึกคล้ายกัน - เมื่อเขาเข้ามากอด จงกอดเขาให้แน่นกว่าที่เคย
 
 > ปรับหาคลื่น เจอแล้วปิดเสีย แล้วก็กลับบ้าน

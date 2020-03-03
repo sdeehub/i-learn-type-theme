@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "ขึ้นทะเบียนหมอนวด"
-date: 2019-06-17 21:51:32 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1560783604/IMG_8228.jpg"
+title: ขึ้นทะเบียนหมอนวด
+date: 2019-06-17 14:51:32 Z
 tags:
 - Life
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1560783604/IMG_8228.jpg
 ---
+
 ดูหน้างาน - จัดการเวลาได้ดี / ขึ้นทะเบียนหมอนวด - 2 เรื่อง / ทำราคาเดินสาย LAN
 
 เรียนรู้อะไรในวันนี้? หมอนวดที่เรียนมาก่อนปี 59? - ต้องกลับมาเรียนใหม่เพื่อให้สามารถขึ้นทะเบียนได้ / ถ้าเราคิดว่าเราเป็นผู้ถูกกระทำ ทุกๆ อย่างก็จะเป็นเช่นนั้น

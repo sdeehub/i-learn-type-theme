@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "เรียนภาษาจาก Quora"
-date: 2019-07-17 22:17:47 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: เรียนภาษาจาก Quora
+date: 2019-07-17 15:17:47 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 - I don't like fish. / Me niether. (ไม่ใช่ Me either.)
 - You can either stay here or go home.
 - Excuse me, but neither of those accusations are true.

@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "ความสุข (จริงๆ)"
-date: 2020-02-03 17:48:04 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: ความสุข (จริงๆ)
+date: 2020-02-03 10:48:04 Z
 tags:
 - Practicing
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 ถ้าเราสมบูรณ์แบบ ถ้าเรามีทุกอย่าง เราจะเชื่อมโยงกับคนอื่นอย่างไรล่ะ
 
 <i class="fa fa-child" style="color:plum"></i>

@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "เรียนรู้จากเมื่อวาน"
-date: 2019-07-24 07:05:39 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: เรียนรู้จากเมื่อวาน
+date: 2019-07-24 00:05:39 Z
 tags:
 - Life
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 ชีวิต / ความเชื่อ / ศรัทธา / ความสงสัย - เปิดทุกอย่างออกไป แล้วเราจะหลุดพ้นได้สักแค่ไหนกัน?
 
 เส้นทางเดินทางของเมื่อวาน ออกไปทางสูงเนิน เส้นทางสวย มีหมู่บ้าน มีบึงขุดขนานใหญ่ พอออกถนนใหญ่ ผ่านแยกขามทะเลสอ ผ่านแยกไปนครราชสีมา - ขอบคุณพี่สันที่เล่าเส้นทางให้ฟังมาก่อนหน้านี้แล้ว

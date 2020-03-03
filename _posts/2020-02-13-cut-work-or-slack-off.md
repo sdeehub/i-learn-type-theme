@@ -1,11 +1,12 @@
 ---
-layout: post
 title: ":)"
-date: 2020-02-13 21:26:23 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+date: 2020-02-13 14:26:23 Z
 tags:
 - Mindful
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 Illuminate the beauty in others!
 
 <i class="fa fa-child" style="color:plum"></i>

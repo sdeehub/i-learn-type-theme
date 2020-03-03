@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "ทานมื้อเที่ยง"
-date: 2019-08-01 22:21:02 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: ทานมื้อเที่ยง
+date: 2019-08-01 15:21:02 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 วันนี้ได้รู้ว่าถ้าเราจะต้องเป็นคนจัดการอะไรก็ควรดูรายละเอียดให้ชัดพอสมควร - ร้านอาหารที่ใช้เวลานาน นอกจากจองโต๊ะ สั่งของทานเล่นไว้รอแล้ว ถ้าทำได้จะสั่งอาหารไว้ก่อนก็จะดีมากๆ ยิ่งในจังหวะที่มีเวลากันไม่มากนัก
 
 <i class="fa fa-child" style="color:plum"></i>

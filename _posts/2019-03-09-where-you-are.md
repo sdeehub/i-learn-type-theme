@@ -1,12 +1,14 @@
 ---
+title: หัวหน้านั่งอยู่ที่ไหน?
+date: 2019-03-09 16:20:06 Z
+tags:
+- Manner
 layout: post
-title: "หัวหน้านั่งอยู่ที่ไหน?"
-date: 2019-03-09 23:20:06 +0700
-feature-img: "https://source.unsplash.com/b34E1vh1tYU"
-credit-name: "Gez Xavier Mansfield"
+feature-img: https://source.unsplash.com/b34E1vh1tYU
+credit-name: Gez Xavier Mansfield
 credit-user: "@gezxaviermansfield"
-tags: Manner
 ---
+
 เอาเป็นว่ามี 3 เรื่องด้วยกัน:
 
 - หัวหน้า ผู้หลักผู้ใหญ่ ผู้ปกครอง ผู้มีอำนาจ - เราจะไม่ได้ไปนั่งที่ไหนได้เลยนอกจากต้องนั่งอยู่ในหัวใจของผู้คนเท่านั้น

@@ -1,12 +1,14 @@
 ---
+title: เส้นทางสู่ความสำเร็จ?
+date: 2019-02-26 13:18:44 Z
+tags:
+- Success
 layout: post
-title: "เส้นทางสู่ความสำเร็จ?"
-date: 2019-02-26 20:18:44 +0700
-feature-img: "https://source.unsplash.com/dQLgop4tnsc"
-credit-name: "Jamie Street"
+feature-img: https://source.unsplash.com/dQLgop4tnsc
+credit-name: Jamie Street
 credit-user: "@jamie452"
-tags: Success
 ---
+
 วันนี้เปิดมาเจอ Quote ของ Freeletics ที่ว่า
 
 > The road to success is always under construction. Keep Going!

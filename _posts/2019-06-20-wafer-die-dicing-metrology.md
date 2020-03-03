@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "การผลิตชิฟ"
-date: 2019-06-20 22:23:38 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: การผลิตชิฟ
+date: 2019-06-20 15:23:38 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 อ่านข้อมูลเกี่ยวกับการผลิตชิฟจากที่นี่ : [https://www.hitachi-hightech.com/global/products/device/semiconductor/process.html](https://www.hitachi-hightech.com/global/products/device/semiconductor/process.html)
 
 <i class="fa fa-child" style="color:plum"></i>

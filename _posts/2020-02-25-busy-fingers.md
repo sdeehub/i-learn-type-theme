@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "เวลาเป็นของมีค่า"
-date: 2020-02-25 22:06:29 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: เวลาเป็นของมีค่า
+date: 2020-02-25 15:06:29 Z
 tags:
 - Reading
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
 Follow your excitement! - If you do not wish to commit suicide, always have something to do ~ Voltaire

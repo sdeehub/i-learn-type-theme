@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "ผิด/ถูก"
-date: 2019-12-16 19:38:13 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: ผิด/ถูก
+date: 2019-12-16 12:38:13 Z
 tags:
 - Life
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 Nobody knows really,
 whether they’re doing,
 the right thing or the wrong thing.

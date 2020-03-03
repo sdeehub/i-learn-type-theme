@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "เรื่องความโชคดี"
-date: 2019-05-03 11:05:26 +0700
-feature-img: "https://source.unsplash.com/jK95EYG_ZhY"
-credit-name: "Arisa Chattasa"
-credit-user: "@golfarisa"
+title: เรื่องความโชคดี
+date: 2019-05-03 04:05:26 Z
 tags:
 - Reference
+layout: post
+feature-img: https://source.unsplash.com/jK95EYG_ZhY
+credit-name: Arisa Chattasa
+credit-user: "@golfarisa"
 ---
+
 4 main principles of luck:
 - Maximizing chance opportunities
 - Listening to your intuition

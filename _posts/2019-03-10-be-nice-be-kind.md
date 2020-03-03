@@ -1,12 +1,14 @@
 ---
+title: Always be kind
+date: 2019-03-10 04:28:41 Z
+tags:
+- Manner
 layout: post
-title: "Always be kind"
-date: 2019-03-10 11:28:41 +0700
-feature-img: "https://source.unsplash.com/9Jrds329V2w"
-credit-name: "Sanetwo Sodbayar"
+feature-img: https://source.unsplash.com/9Jrds329V2w
+credit-name: Sanetwo Sodbayar
 credit-user: "@sanetwo"
-tags: Manner
 ---
+
 รักษาจิตใจที่ดีงาม รักษาความสุภาพ-อ่อนโยน ไว้เสมอ - ที่สำคัญในเวลาที่เราหงุดหงิด หรือกำลังไม่ชอบใจ
 
 เรื่องราวต่างๆ เป็นไป-เกิดขึ้นได้ทั้งนั้น อาจจะเป็นเรื่องที่เราชอบใจ ถูกใจ จะบอกว่าดีไป หรือดีแก่ใจก็ได้

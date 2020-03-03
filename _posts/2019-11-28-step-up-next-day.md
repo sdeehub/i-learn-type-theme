@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "ดีขึ้น ดีขึ้น"
-date: 2019-11-28 22:09:46 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: ดีขึ้น ดีขึ้น
+date: 2019-11-28 15:09:46 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
 Step up ทุกๆ อย่าง - ทำให้ดีขึ้น ฟังให้มากขึ้น ตั้งใจ ตั้งสติให้ดียิ่งๆ ขึ้นไป

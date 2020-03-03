@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "ง่วงนะ"
-date: 2019-11-18 09:09:54 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: ง่วงนะ
+date: 2019-11-18 02:09:54 Z
 tags:
 - Reference
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
 Simplicity is the ultimate sophistication.~ Leonardo da Vinci

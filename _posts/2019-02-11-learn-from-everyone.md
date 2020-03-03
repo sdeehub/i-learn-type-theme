@@ -1,12 +1,14 @@
 ---
+title: เรียนรู้ได้จากทุกๆ คน ทุกๆ สิ่ง รอบๆ ตัวเรา
+date: 2019-02-11 08:15:48 Z
+tags:
+- Social
 layout: post
-title: "เรียนรู้ได้จากทุกๆ คน ทุกๆ สิ่ง รอบๆ ตัวเรา"
-date: 2019-02-11 15:15:48 +0700
-feature-img: "https://source.unsplash.com/IBaVuZsJJTo"
+feature-img: https://source.unsplash.com/IBaVuZsJJTo
 credit-name: Ryoji Iwata
 credit-user: "@ryoji__iwata"
-tags: Social
 ---
+
 คำสอนนี้เป็นคำสอนที่ดี - เรียนรู้จากทุกๆ คน เรียนรู้จากทุกๆ สิ่ง เรียนรู้จากทุกๆ สถานการณ์
 
 เหมือนอย่างตอนที่เราตั้งใจฟังคุณ Deva ที่กำลังบอกว่ามาจากเมือง Parma ของ Italy ซึ่งแน่นอนว่าไม่ใช่อย่างที่ใครๆ คิดว่าเป็นกรุง Rome แน่ๆ แล้วก็ได้รู้เรื่อง Parmesan Cheese มาด้วยเลย

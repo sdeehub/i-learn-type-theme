@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "เสาร์ 15"
-date: 2019-06-15 22:53:51 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: เสาร์ 15
+date: 2019-06-15 15:53:51 Z
 tags:
 - Practicing
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 วันนี้ทานมื้อเย็นกันที่ร้านตี๋น้อย - เมื่อมีสถานการณ์ สิ่งที่เราต้องทำคือควบคุมตัวเราเองให้ผ่านสถานการณ์นั้นไป เมื่อเราทำได้ดี เราก็ทำได้ดี และไปต่อไป
 
 ก็แค่นั้น - ทำได้ดี ก็ถือว่าเป็นผลสำเร็จที่มีค่ามากพอแล้ว ... ไปต่อไป (เก็บคำวิพากษ์ วิจารณ์ หรือวิเคราะห์สถานการณ์ ให้เงียบกริบ)

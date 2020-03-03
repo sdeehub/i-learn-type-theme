@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "รัก?"
-date: 2019-11-20 09:09:54 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: รัก?
+date: 2019-11-20 02:09:54 Z
 tags:
 - Life
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
 จงตกหลุมรักใครสักคนที่ทำให้เรารู้สึกว่า ความรักเป็นเรื่องง่าย ตกหลุมรักเขาได้โดยไม่ต้องพยายาม คบหากันโดยที่ไม่มีใครต้องเปลี่ยนไปจากสิ่งที่ตัวเองเป็น อยู่ข้างๆ กัน โดยที่ไม่มีเรื่องอะไรที่เราจะบอกให้กันรู้ไม่ได้ เมื่อโกรธกันก็ไม่ลังเลที่จะง้อ เราเชื่อว่าความรักที่ดีไม่(ควร)ซับซ้อน

@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "Pay them the respect"
-date: 2019-06-06 12:11:39 +0700
-feature-img: "https://source.unsplash.com/s5eCOoAWSaE"
-credit-name: "Aleks Dahlberg"
-credit-user: "@aleksdahlberg"
+title: Pay them the respect
+date: 2019-06-06 05:11:39 Z
 tags:
 - Reference
+layout: post
+feature-img: https://source.unsplash.com/s5eCOoAWSaE
+credit-name: Aleks Dahlberg
+credit-user: "@aleksdahlberg"
 ---
+
 > There's no such thing as a self-made person. Someone else belived, encouraged and invested in you. Be grateful and be that someone for others. ~ [marcandangel](http://www.marcandangel.com/)
 
 > Beginning today, treat everyone you meet as if they were going to be dead by midnight. Extend to them all the care, kindness and understanding you can muster, and do it with no thought of any reward. Your life will never be the same again. ~ Og Mandino

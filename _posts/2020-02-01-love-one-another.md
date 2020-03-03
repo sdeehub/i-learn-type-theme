@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Love one another"
-date: 2020-02-01 17:38:04 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: Love one another
+date: 2020-02-01 10:38:04 Z
 tags:
 - Practicing
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
+
 ครั้งต่อไปที่ผมคลางแคลงในตัวใครสักคน
 
 <i class="fa fa-child" style="color:plum"></i>

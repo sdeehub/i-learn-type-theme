@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "ในความบริสุทธิ์"
-date: 2020-01-15 12:19:45 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
+title: ในความบริสุทธิ์
+date: 2020-01-15 05:19:45 Z
 tags:
 - Mindful
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
 ในกรณีนั้น เธอต้องพัฒนาความบริสุทธิ์จนโปร่งใส นั่นคือ หากเธอเห็นตัวเองเป็นแม่น้ำที่มีน้ำใจ เธอจะส่งความสมบรูณ์ให้สภาพแวดล้อม

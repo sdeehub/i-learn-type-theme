@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "สิ่งที่เราไม่เห็น"
-date: 2019-06-26 22:24:13 +0700
-feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1561562747/IMG_8268.jpg"
+title: สิ่งที่เราไม่เห็น
+date: 2019-06-26 15:24:13 Z
 tags:
 - Life
+layout: post
+feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1561562747/IMG_8268.jpg
 ---
+
 ยังมีเรื่องที่เราไม่เห็น กว่าจะมากันถึงตรงนี้ / ยังมีเรื่องที่เราไม่เห็น ตอนลำบากที่ไม่อยากให้ใครเห็น / ยังมีเรื่องที่เราไม่เห็น แต่เมื่อผ่านมาได้เรากลับยิ้มได้ / ยังมีเรื่องที่เราไม่เห็น แต่สอนเราได้มากมายจริงๆ
 
 <i class="fa fa-child" style="color:plum"></i>
