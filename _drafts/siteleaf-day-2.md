@@ -8,10 +8,11 @@ layout: ''
 feature-img: ''
 
 ---
-    Let's check out - [siteleaf](https://www.siteleaf.com/)
+Script? - Pause and predict thing! ... read, stop having opinions, being honest and write.
     
-    คนเราจะดีได้ต้องฝืนใจได้ ถ้าฝืนใจไม่ได้ก็ดีไม่ได้ ปล่อยไปตามใจตัว ตามอารมณ์ ตามใจตนนั้น เสียผู้-เสียคน มามากมายแล้ว - คำสอนของหลวงพ่อจรัญ
+<i class="fa fa-child" style="color:plum"></i>
     
-    <i class="fa fa-child" style="color:plum"></i>
-    
-    If we did all the things we are capable of, we would literally astound ourselves. ~ Thomas Edison
+มีอยู่ 2 สิ่งที่มักนึกเสียใจในภายหลัง
+
+1. ทำไปไม่ทันคิด
+2. ได้แต่คิด แต่ไม่ทันได้ทำ
