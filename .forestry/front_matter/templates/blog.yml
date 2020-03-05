@@ -23,3 +23,4 @@ fields:
   default: "/v1555658919/sample_feature_img.png"
 pages:
 - _posts/2020-03-04-siteleaf-day-2.md
+- _posts/forestry-io.md
