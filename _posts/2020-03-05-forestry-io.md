@@ -1,6 +1,6 @@
 ---
 layout: post
-feature-img: "/v1555658919/sample_feature_img.png"
+feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
 title: forestry.io
 date: 2020-03-05 15:28:00 +0000
 tags:
