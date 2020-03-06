@@ -1,8 +1,8 @@
 ---
 layout: post
 feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
-title: ก่อนนอน ก่อน 1 วัน
-date: 2020-03-05 17:00:00 +0000
+title: ก่อน 1 วัน
+date: 2020-03-07 17:00:00 +0000
 tags:
 - Coding
 
