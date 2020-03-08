@@ -9,3 +9,5 @@ tags:
 ---
 1. มาดูกันว่าจะอัพเดท media url ที่เป็น public path ยังไง
 2. เวลากด alt+shift ถ้าไวมากจะกลายเป็นไปใช้ key shortcut อื่น
+
+<i class="fa fa-child" style="color:plum"></i>
