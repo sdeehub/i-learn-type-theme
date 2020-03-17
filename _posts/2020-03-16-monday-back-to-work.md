@@ -7,7 +7,7 @@ tags:
 - Coding
 
 ---
-ิีbulk update to cloudinary?
+bulk update to cloudinary?
 
 <i class="fa fa-child" style="color:plum"></i>
 
