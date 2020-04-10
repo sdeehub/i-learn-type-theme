@@ -1,8 +1,8 @@
 ---
 layout: post
 feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
-title: Today Monday!
-date: 2020-04-06 T21:04:10+07:00
+title: เพราะ?
+date: 2020-04-08 T21:04:10+07:00
 tags:
 - Quote
 ---
