@@ -2,7 +2,7 @@
 layout: post
 feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
 title: 'how?'
-date: 2020-04-30 T23:07:34+07:00
+date: 2020-05-01 T16:54:59+07:00
 tags:
 - Life
 ---
