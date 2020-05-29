@@ -1,7 +1,7 @@
 ---
 layout: post
 feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
-title: 'Don't'
+title: "Don't"
 date: 2020-05-21 T22:44:55+07:00
 tags:
 - Life
