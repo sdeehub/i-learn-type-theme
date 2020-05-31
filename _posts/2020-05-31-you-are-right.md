@@ -12,7 +12,7 @@ You are right, John!
 
 แทนการตอบว่า
 - I know.
-- I agreed with you
-- Exactly
+- I agreed with you.
+- Exactly!
 
 เปลี่ยนมาใช้ You are right, John! เพราะใครๆ ก็รู้สึกดีมากๆ ที่ได้ยินว่าเขาถูก
