@@ -9,3 +9,5 @@ tags:
 รูปเก่าพร้อมคำอธิบายจากเว็บ [PANTIP.COM](http://topicstock.pantip.com/isolate/topicstock/2012/11/M12951410/M12951410.html)
 
 <i class="fa fa-child" style="color:plum"></i>
+
+Being male is a matter of birth, Being a man is a matter of age, Being a gentleman is a matter of choice.
