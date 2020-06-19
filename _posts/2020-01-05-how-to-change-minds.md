@@ -11,4 +11,4 @@ feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/
 
 <i class="fa fa-child" style="color:plum"></i>
 
-ประโยชน์ที่จูงใจคนมากที่สุด *คือ* ประโยชน์ที่คนๆ นั้น ค้นพบด้วยตนเอง
+ประโยชน์ที่จูงใจคนมากที่สุด *คือ* ประโยชน์ที่คน ๆ นั้น ค้นพบด้วยตนเอง

@@ -9,7 +9,7 @@ feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_10
 ---
 ทุกอย่างทำตาม Script ในหัว? - ลอง Pause and predict thing!
 
-เห็นเลยว่าอะไรจะเป็นยังไง ยิ้มยังไง ถามอะไร ตอบอะไร ... งั้นมา read, stop having opinions, being honest and write - ทำพวกนี้ให้หลุดออกมาจาก Script ในหัวแล้วเป็นตัวของเราจริงๆ
+เห็นเลยว่าอะไรจะเป็นยังไง ยิ้มยังไง ถามอะไร ตอบอะไร ... งั้นมา read, stop having opinions, being honest and write - ทำพวกนี้ให้หลุดออกมาจาก Script ในหัวแล้วเป็นตัวของเราจริง ๆ
 
 <i class="fa fa-child" style="color:plum"></i>
 

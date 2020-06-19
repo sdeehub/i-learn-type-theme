@@ -11,4 +11,4 @@ feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/
 
 <i class="fa fa-child" style="color:plum"></i>
 
-แรงบันดาลใจจากเพื่อน คือ ดี และ ขอบคุณมากๆ จริงๆ :)
+แรงบันดาลใจจากเพื่อน คือ ดี และ ขอบคุณมาก ๆ จริง ๆ :)

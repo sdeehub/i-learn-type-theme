@@ -11,4 +11,4 @@ feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/
 
 <i class="fa fa-child" style="color:plum"></i>
 
-และทำลายสิ่งมีค่ามากมายที่พวกเด็กๆ ทำลายด้วยตัวเองไม่ได้
+และทำลายสิ่งมีค่ามากมายที่พวกเด็ก ๆ ทำลายด้วยตัวเองไม่ได้

@@ -11,4 +11,4 @@ feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/
 
 <i class="fa fa-child" style="color:plum"></i>
 
-พลังแห่งความดีจะดึงดูดสิ่งดีๆ คนที่ดีๆ มาหาเราเสมอ
+พลังแห่งความดีจะดึงดูดสิ่งดี ๆ คนที่ดี ๆ มาหาเราเสมอ

@@ -11,4 +11,4 @@ feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/
 
 <i class="fa fa-child" style="color:plum"></i>
 
-มิอาจสู้จุมพิตง่ายๆ หนึ่งครั้ง
+มิอาจสู้จุมพิตง่าย ๆ หนึ่งครั้ง

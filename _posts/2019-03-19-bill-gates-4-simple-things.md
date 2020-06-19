@@ -1,5 +1,5 @@
 ---
-title: 4 เรื่องง่ายๆ
+title: 4 เรื่องง่าย ๆ
 date: 2019-03-19 11:21:19 Z
 tags:
 - Reference

@@ -7,7 +7,7 @@ layout: post
 feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
-วันนี้เรียนรู้ว่ามาเช้า ... ไม่ใช่เช้าเกินไป แต่กำลังสบายๆ ได้อ่านหนังสือ และ รับลมกับบรรยากาศสบายๆ ด้วย
+วันนี้เรียนรู้ว่ามาเช้า ... ไม่ใช่เช้าเกินไป แต่กำลังสบาย ๆ ได้อ่านหนังสือ และ รับลมกับบรรยากาศสบาย ๆ ด้วย
 
 > When we think we already know what there is to hear, we are simply moving a little too fast too really listen.
 

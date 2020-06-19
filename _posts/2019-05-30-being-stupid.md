@@ -12,7 +12,7 @@ credit-user: "@ujitomo"
 - คนเก่งคือคนที่พลาดมาก่อนนับครั้งไม่ถ้วน
 - ไม่รู้ ก็ถาม - ไม่มีอะไรแปลกไปกว่านี้แล้ว
 - Successful people do what unsuccessful people are unwilling to do.
-- เปิดใจที่ไม่รู้ ให้ยอมรับว่าเป็นเรื่องธรรมดาที่เราจะต้องเรียนรู้ต่อไปเรื่อยๆ
+- เปิดใจที่ไม่รู้ ให้ยอมรับว่าเป็นเรื่องธรรมดาที่เราจะต้องเรียนรู้ต่อไปเรื่อย ๆ
 
 > I have never met a rich person who has never lost money. But I have met a lot of poor people who have never lost a dime. -Robert Kiyosaki
 

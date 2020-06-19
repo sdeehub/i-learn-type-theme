@@ -7,7 +7,7 @@ layout: post
 feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
-ศรัทธา เชื่อมั่นว่าเป็นไปได้ ด้วยดี จริงๆ
+ศรัทธา เชื่อมั่นว่าเป็นไปได้ ด้วยดี จริง ๆ
 
 <i class="fa fa-child" style="color:plum"></i>
 

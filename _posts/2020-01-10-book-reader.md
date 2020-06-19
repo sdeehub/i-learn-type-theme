@@ -7,7 +7,7 @@ layout: post
 feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
-คนที่ชอบโน้มน้าวใจคนจะย้ำถึงประโยชน์ต่างๆ เพื่อช่วยให้เขามองเห็นภาพรวมของทางออกด้วยตัวของเขาเอง
+คนที่ชอบโน้มน้าวใจคนจะย้ำถึงประโยชน์ต่าง ๆ เพื่อช่วยให้เขามองเห็นภาพรวมของทางออกด้วยตัวของเขาเอง
 
 <i class="fa fa-child" style="color:plum"></i>
 

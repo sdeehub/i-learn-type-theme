@@ -14,4 +14,4 @@ feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/
 
 <i class="fa fa-child" style="color:plum"></i>
 
-Xfce4 / Moka Icon / Shortcut ต่างๆ
+Xfce4 / Moka Icon / Shortcut ต่าง ๆ

@@ -7,7 +7,7 @@ layout: post
 feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
-Step up ทุกๆ อย่าง - ทำให้ดีขึ้น ฟังให้มากขึ้น ตั้งใจ ตั้งสติให้ดียิ่งๆ ขึ้นไป
+Step up ทุก ๆ อย่าง - ทำให้ดีขึ้น ฟังให้มากขึ้น ตั้งใจ ตั้งสติให้ดียิ่ง ๆ ขึ้นไป
 
 <i class="fa fa-child" style="color:plum"></i>
 

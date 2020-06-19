@@ -7,7 +7,7 @@ layout: post
 feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
-วันนี้เรียนรู้ว่ามาเช้าอีกวัน และ ทุกๆ วันที่ทำได้ คือ เว้นเช้าวันจันทร์ / อังคาร - พุธ - พฤหัส เช้าของ 3 วันสำหรับการอ่านหนังสือ / ศุกร์ - เช้ามาถึงแล้วก็เข้างานเลย
+วันนี้เรียนรู้ว่ามาเช้าอีกวัน และ ทุก ๆ วันที่ทำได้ คือ เว้นเช้าวันจันทร์ / อังคาร - พุธ - พฤหัส เช้าของ 3 วันสำหรับการอ่านหนังสือ / ศุกร์ - เช้ามาถึงแล้วก็เข้างานเลย
 
 > Listening to others requires quieting some of the voices that already exist within us.
 

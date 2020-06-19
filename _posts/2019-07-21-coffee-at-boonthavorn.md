@@ -7,7 +7,7 @@ layout: post
 feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
-วันนี้ได้รู้ว่ามาดื่มกาแฟที่บุญถาวร - ทำยังไงแล้วนะ เอาคะแนนไปแลกได้เป็นกาแฟอร่อยๆ
+วันนี้ได้รู้ว่ามาดื่มกาแฟที่บุญถาวร - ทำยังไงแล้วนะ เอาคะแนนไปแลกได้เป็นกาแฟอร่อย ๆ
 
 <i class="fa fa-child" style="color:plum"></i>
 

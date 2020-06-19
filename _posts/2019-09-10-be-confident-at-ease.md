@@ -15,5 +15,5 @@ Be confident (check points)
 - Set achievable goals
 - Keep track of our accomplishments
 - Love ourself / อดทน และ อ่อนโยนกับตัวเราเอง
-- Embrace difficult people / เมตตากับทุกๆ คน
+- Embrace difficult people / เมตตากับทุก ๆ คน
 - Adopt a learning mindset / เราเรียนรู้ได้ เราพัฒนาได้ เราเติบโตได้ : สม่ำเสมอและตลอดเวลา

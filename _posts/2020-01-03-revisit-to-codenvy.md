@@ -11,4 +11,4 @@ feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/
 
 <i class="fa fa-child" style="color:plum"></i>
 
-เหมือนกับใช้แค่ Codenvy Editor ไม่ได้ใช้พวก Dockers หรือ Debug Tool อื่นๆ แค่เขียน Markdown เสร็จแล้วก็ Push ไฟล์ขึ้น git ไป
+เหมือนกับใช้แค่ Codenvy Editor ไม่ได้ใช้พวก Dockers หรือ Debug Tool อื่น ๆ แค่เขียน Markdown เสร็จแล้วก็ Push ไฟล์ขึ้น git ไป

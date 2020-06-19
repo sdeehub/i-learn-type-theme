@@ -7,7 +7,7 @@ layout: post
 feature-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png
 ---
 
-วันนี้อ่านหนังสือเล่มเล็กจบ สบายใจ ได้ธรรมะ - ถึงจะจำแบบเฉพาะเจาะจงไม่ได้ แต่ก็ได้ธรรมะละนะ ... จริงๆ
+วันนี้อ่านหนังสือเล่มเล็กจบ สบายใจ ได้ธรรมะ - ถึงจะจำแบบเฉพาะเจาะจงไม่ได้ แต่ก็ได้ธรรมะละนะ ... จริง ๆ
 
 <i class="fa fa-child" style="color:plum"></i>
 

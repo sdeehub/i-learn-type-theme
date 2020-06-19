@@ -11,4 +11,4 @@ If you're not making mistakes, then you're not making decisions. ~ Catherine Coo
 
 <i class="fa fa-child" style="color:plum"></i>
 
-เรียนจากเรา และ เพื่อนๆ :)
+เรียนจากเรา และ เพื่อน ๆ :)

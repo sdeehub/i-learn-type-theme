@@ -15,4 +15,4 @@ You are right, John!
 - I agreed with you.
 - Exactly!
 
-เปลี่ยนมาใช้ You are right, John! เพราะใครๆ ก็รู้สึกดีมากๆ ที่ได้ยินว่าเขาถูก
+เปลี่ยนมาใช้ You are right, John! เพราะใคร ๆ ก็รู้สึกดีมาก ๆ ที่ได้ยินว่าเขาถูก
