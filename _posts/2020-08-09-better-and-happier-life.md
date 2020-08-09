@@ -9,3 +9,5 @@ tags:
 ชีวิตดีขึ้นได้ด้วยวิธีคิด และ วิธีพูดที่ดี
 
 <i class="fa fa-child" style="color:plum"></i>
+
+มาลองทำ 101 Goals List ดูด้วยนะใช้ hugo theme ที่มีแล้วนี่ละ +  private github อีกสัก repo.
