@@ -4,7 +4,7 @@ feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919
 title: 'Greatness'
 date: 2020-09-17 T22:26:02+07:00
 tags:
-- 'life'
+- 'momentum'
 ---
 Strive for Greatness, Odd!
 
