@@ -4,7 +4,7 @@ feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919
 title: 'Greatness+'
 date: 2020-09-18 T22:26:02+07:00
 tags:
-- 'quora'
+- 'Quora'
 ---
 Use the talents you possess, for the woods would be very silent if no birds sang except the best. ~ Henry Van Dyke
 
