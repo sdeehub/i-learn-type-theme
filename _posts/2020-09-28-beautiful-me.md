@@ -1,13 +1,13 @@
 ---
 layout: post
 feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
-title: 'whats.help'
-date: 2020-09-26 T22:54:23+07:00
+title: 'Discipline'
+date: 2020-09-28 T22:20:05+07:00
 tags:
-- 'Life'
+- 'Momentum'
 ---
-- What can I help with?
-- How can I be of help?
-- How can I help?
+Discipline is the bridge between goals and accomplishment ~ Jim Rohn
 
 <i class="fa fa-child" style="color:plum"></i>
+
+Believe in yourself!
