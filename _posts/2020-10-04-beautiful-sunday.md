@@ -1,13 +1,11 @@
 ---
 layout: post
 feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
-title: 'วันดี'
-date: 2020-10-03 T22:08:33+07:00
+title: 'ว่าง'
+date: 2020-10-04 T12:05:41+07:00
 tags:
-- 'Quote'
+- 'Momentum'
 ---
-Practice kindness, Odd.
+Watch carefully the magic that occurs when you give a person just enough comfort to be themselves. ~ Atticus
 
 <i class="fa fa-child" style="color:plum"></i>
-
-Be patient. Everything comes to you in the right moment. ~ Buddha
