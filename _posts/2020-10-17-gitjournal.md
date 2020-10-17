@@ -7,8 +7,6 @@ tags:
 - 'Coding'
 ---
 
-# GitJournal
-
 เช้านี้ลองใช้ GitJournal -​ เขียนเรื่อง จดบันทึก มาจาก tablet
 - ขั้นตอนแรกเป็นแค่การใช้ text editor ธรรมดา
 - ขั้นต่อมาเป็นการ push ขึ้น git
