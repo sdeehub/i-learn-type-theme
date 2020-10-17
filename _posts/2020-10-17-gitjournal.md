@@ -13,3 +13,7 @@ tags:
 - แล้วไปดู post กันบน Github Pages
 
 <i class="fa fa-child" style="color:plum"></i>
+
+เพิ่มเติมจาก GitJournal ก็คือ
+- MrHyde
+- UserLAnd
