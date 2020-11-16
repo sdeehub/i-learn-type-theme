@@ -2,7 +2,7 @@
 layout: post
 feature-img: "https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_feature_img.png"
 title: 'Progress'
-date: 2020-11-13 11:21:33
+date: 2020-11-15 11:21:33
 tags:
 - 'Life'
 ---
