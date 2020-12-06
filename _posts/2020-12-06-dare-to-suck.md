@@ -9,3 +9,5 @@ tags:
 Dare to suck!
 
 <i class="fa fa-child" style="color:plum"></i>
+
+Remember that wherever your heart is, there you will find your treasure. ~ Paulo Coelho
